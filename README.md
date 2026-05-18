@@ -1,6 +1,7 @@
 # Hi 👋, I'm Chandra ObulaReddy
 
-## Principle Software Engineer • Technical Architect • Leading cross-functional teams across Flutter, Backend, AI, and QA to build scalable digital products.
+## Principal Software Engineer with experience leading architecture and development of scalable mobile, backend, and cloud-based applications.
+
 
 I enjoy building real-world products, automation tools, mobile apps, and cloud-based solutions.
 
