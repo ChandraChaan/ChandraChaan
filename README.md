@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Chandra ObulaReddy
 
-<!--
-**ChandraChaan/ChandraChaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | Flutter Developer | AWS Learner
 
-Here are some ideas to get you started:
+I enjoy building real-world products, automation tools, mobile apps, and cloud-based solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- Flutter
+- Dart
+- Node.js
+- Firebase
+- AWS
+- REST APIs
+- MongoDB
+- Git & GitHub
+
+---
+
+## 📱 Current Focus
+
+- Ride price comparison platform
+- AWS serverless architecture
+- Automation systems
+- Mobile applications
+
+---
+
+## 🌱 Currently Learning
+
+- AWS Lambda
+- API Gateway
+- DevOps Basics
+- System Design
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/ChandraChaan
+
+---
+
+## ⚡ Fun Fact
+
+I love turning startup ideas into real working products.
