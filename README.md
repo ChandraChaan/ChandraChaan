@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chandra ObulaReddy
 
-## Full Stack Developer | Flutter Developer | AWS Learner
+## Principle Software Engineer • Technical Architect • Leading cross-functional teams across Flutter, Backend, AI, and QA to build scalable digital products.
 
 I enjoy building real-world products, automation tools, mobile apps, and cloud-based solutions.
 
