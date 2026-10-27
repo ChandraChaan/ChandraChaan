@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0C0F,60:14171B,100:9A5A0C&height=170&section=header&text=Chandra%20ObulaReddy&fontSize=44&fontColor=EFA23F&animation=fadeIn&fontAlignY=38&desc=Principal%20Software%20Engineer%20(Mobile)%20%E2%80%A2%20Flutter%20%E2%80%A2%20BLE%20%26%20Wearables%20%E2%80%A2%20FinTech%20%E2%80%A2%20AWS&descAlignY=60&descSize=15&descColor=F3F1EC" width="100%" alt="Chandra ObulaReddy, Principal Software Engineer (Mobile)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0C0F,60:14171B,100:9A5A0C&height=170&section=header&text=Chandra%20ObulaReddy&fontSize=44&fontColor=EFA23F&animation=fadeIn&fontAlignY=38&desc=Principal%20Software%20Engineer%20(Mobile)%20%E2%80%A2%20Flutter%20%E2%80%A2%20BLE%20and%20Wearables%20%E2%80%A2%20FinTech%20%E2%80%A2%20AWS&descAlignY=60&descSize=15&descColor=F3F1EC" width="100%" alt="Chandra ObulaReddy, Principal Software Engineer (Mobile)" />
 
 [![Portfolio](https://img.shields.io/badge/chandrachaan.com-EFA23F?style=flat-square&logo=googlechrome&logoColor=0A0C0F)](https://chandrachaan.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandra-obulareddy)
