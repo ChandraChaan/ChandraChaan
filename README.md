@@ -78,6 +78,7 @@ I've led and mentored engineering teams for years, and I teach the way I wish I'
 - **Architecture for mobile**: Clean Architecture, BLoC, GetX and scaling a codebase
 - **Career growth**: moving from developer to senior, lead and architect
 - Formats: **1:1 mentoring**, **small-group live classes** and **workshops for teams**
+- Free to everyone: the **[Flutter Architect Handbook](https://github.com/ChandraChaan/flutter-architect-handbook)**, 67 interview and architecture questions from junior to architect
 
 ---
 
@@ -126,6 +127,15 @@ I've led and mentored engineering teams for years, and I teach the way I wish I'
 </tr>
 </table>
 
+#### More open source
+
+| Project | What it is |
+|---|---|
+| [**flutter-production-starter**](https://github.com/ChandraChaan/flutter-production-starter) ![Stars](https://img.shields.io/github/stars/ChandraChaan/flutter-production-starter?style=flat&color=EFA23F&label=%E2%98%85) | Template app: clean architecture, Riverpod 3, go_router, environments, typed errors, SSL pinning, English + Hindi, tests and CI |
+| [**flutter-architect-handbook**](https://github.com/ChandraChaan/flutter-architect-handbook) ![Stars](https://img.shields.io/github/stars/ChandraChaan/flutter-architect-handbook?style=flat&color=EFA23F&label=%E2%98%85) | 67 Flutter interview and architecture questions, junior to architect |
+| [**ble_device_simulator**](https://github.com/ChandraChaan/ble_device_simulator) ![Stars](https://img.shields.io/github/stars/ChandraChaan/ble_device_simulator?style=flat&color=EFA23F&label=%E2%98%85) | Simulated BLE heart-rate, BP, SpO2, cycling and running devices for testing apps without hardware |
+| [**india_validators**](https://github.com/ChandraChaan/india_validators) ![Stars](https://img.shields.io/github/stars/ChandraChaan/india_validators?style=flat&color=EFA23F&label=%E2%98%85) | PAN, GSTIN (with checksum), Aadhaar (Verhoeff), IFSC, UPI ID, mobile and PIN code validation for Dart and Flutter |
+
 ### 🤝 Contributing to Flutter and its ecosystem
 
 <sub>Bugs I found and fixed in projects Flutter developers use every day. Status badges update live.</sub>
@@ -133,6 +143,7 @@ I've led and mentored engineering teams for years, and I teach the way I wish I'
 | Project | Fix | Status |
 |---|---|---|
 | [**flutter/flutter**](https://github.com/flutter/flutter/pull/195398) | `TableBorder` lost its rounded corners while animating | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/flutter/195398?label=PR)](https://github.com/flutter/flutter/pull/195398) |
+| [**flutter/flutter**](https://github.com/flutter/flutter/pull/195404) | Text fields ignored a changed spell-check selection color | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/flutter/195404?label=PR)](https://github.com/flutter/flutter/pull/195404) |
 | [**material_ui**](https://github.com/flutter/packages/pull/13449) | SnackBar theme dropped its close button during theme animations | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13449?label=PR)](https://github.com/flutter/packages/pull/13449) |
 | [**cupertino_ui**](https://github.com/flutter/packages/pull/13450) | iOS theme equality ignored the selection handle color | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13450?label=PR)](https://github.com/flutter/packages/pull/13450) |
 | [**camera**](https://github.com/flutter/packages/pull/13452) | Recording events broke the `==`/`hashCode` contract | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13452?label=PR)](https://github.com/flutter/packages/pull/13452) |
