@@ -107,6 +107,8 @@ I've led and mentored engineering teams for years, and I teach the way I wish I'
 
 **Turns raw Bluetooth bytes from heart-rate straps, BP cuffs, glucose meters, oximeters, scales and cycling sensors into typed Dart objects.** Follows the Bluetooth SIG specs, works with any BLE plugin, zero dependencies, every platform including web.
 
+▶️ **[Try the live playground](https://chandrachaan.github.io/ble_gatt_parser/)**
+
 `Dart` · `Flutter` · `BLE` · `HealthTech` · `pub.dev`
 
 </td>
