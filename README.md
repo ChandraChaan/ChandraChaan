@@ -10,7 +10,7 @@
 
 I'm a **Principal Software Engineer (Mobile) at [mPokket](https://www.mpokket.in/)**. For 8+ years I've designed and shipped mobile, web and cloud products in **FinTech, HealthTech, EdTech, HRMS and e-commerce**, and I've led and mentored the teams that build them.
 
-My work centres on **Flutter architecture**, **Bluetooth LE, wearables and HealthKit**, **payments and app security**, and **AWS**. Outside work I build small, private apps and open-source tools, and I write the learning material I wish I'd had.
+My work centres on **Flutter architecture**, **Bluetooth LE, wearables and HealthKit**, **payments and app security**, and **AWS**. Outside work I build small, privacy-first apps and open-source tools, and I write the learning material I wish I'd had.
 
 <div align="center">
 
@@ -58,7 +58,7 @@ Small apps that each do one job well. Open source, no ads, and your data stays o
 | [**flutter-production-starter**](https://github.com/ChandraChaan/flutter-production-starter) | Template app: clean architecture, Riverpod 3, go_router, environments, SSL pinning, tests and CI |
 | [**jobright**](https://github.com/ChandraChaan/jobright) | A local AI job-search agent that tailors resumes from real facts and applies only with your approval |
 
-### Contributions to Flutter and its ecosystem
+### Contributions to Flutter, Dart and their ecosystem
 
 | Project | Fix | Status |
 |---|---|---|
@@ -67,8 +67,15 @@ Small apps that each do one job well. Open source, no ads, and your data stays o
 | [flutter/packages · material_ui](https://github.com/flutter/packages/pull/13449) | SnackBar theme dropped its close button during theme animations | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13449?label=PR&style=flat-square)](https://github.com/flutter/packages/pull/13449) |
 | [flutter/packages · cupertino_ui](https://github.com/flutter/packages/pull/13450) | iOS theme equality ignored the selection handle colour | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13450?label=PR&style=flat-square)](https://github.com/flutter/packages/pull/13450) |
 | [flutter/packages · camera](https://github.com/flutter/packages/pull/13452) | Recording events broke the `==`/`hashCode` contract | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13452?label=PR&style=flat-square)](https://github.com/flutter/packages/pull/13452) |
+| [dart-lang/http](https://github.com/dart-lang/http/pull/2040) | `RetryClient` threw when the retry check read the response body | [![PR](https://img.shields.io/github/pulls/detail/state/dart-lang/http/2040?label=PR&style=flat-square)](https://github.com/dart-lang/http/pull/2040) |
+| [dart-lang/core · args](https://github.com/dart-lang/core/pull/1032) | Help-text separators ignored the configured line length | [![PR](https://img.shields.io/github/pulls/detail/state/dart-lang/core/1032?label=PR&style=flat-square)](https://github.com/dart-lang/core/pull/1032) |
+| [dart-lang/tools · csslib](https://github.com/dart-lang/tools/pull/2732) | Wrong hex values for three named CSS colours | [![PR](https://img.shields.io/github/pulls/detail/state/dart-lang/tools/2732?label=PR&style=flat-square)](https://github.com/dart-lang/tools/pull/2732) |
 | [plus_plugins · share_plus](https://github.com/fluttercommunity/plus_plugins/pull/4010) | Windows builds failed under C++20 | [![PR](https://img.shields.io/github/pulls/detail/state/fluttercommunity/plus_plugins/4010?label=PR&style=flat-square)](https://github.com/fluttercommunity/plus_plugins/pull/4010) |
+| [plus_plugins · device_info_plus](https://github.com/fluttercommunity/plus_plugins/pull/4012) | Linux device info kept stray quotes from os-release on some distros | [![PR](https://img.shields.io/github/pulls/detail/state/fluttercommunity/plus_plugins/4012?label=PR&style=flat-square)](https://github.com/fluttercommunity/plus_plugins/pull/4012) |
 | [carp-health-flutter · health](https://github.com/carp-dk/carp-health-flutter/pull/535) | Android workout summaries were always empty | [![PR](https://img.shields.io/github/pulls/detail/state/carp-dk/carp-health-flutter/535?label=PR&style=flat-square)](https://github.com/carp-dk/carp-health-flutter/pull/535) |
+| [bloc · replay_bloc](https://github.com/felangel/bloc/pull/4902) | Undo history ignored a lowered history limit | [![PR](https://img.shields.io/github/pulls/detail/state/felangel/bloc/4902?label=PR&style=flat-square)](https://github.com/felangel/bloc/pull/4902) |
+| [dio](https://github.com/cfug/dio/pull/2628) | `ListFormat.tsv` joined values with a literal `\t` instead of a tab | [![PR](https://img.shields.io/github/pulls/detail/state/cfug/dio/2628?label=PR&style=flat-square)](https://github.com/cfug/dio/pull/2628) |
+| [serverpod](https://github.com/serverpod/serverpod/pull/5920) | The CLI planned a bogus rename cycle when two columns swapped names | [![PR](https://img.shields.io/github/pulls/detail/state/serverpod/serverpod/5920?label=PR&style=flat-square)](https://github.com/serverpod/serverpod/pull/5920) |
 
 ---
 
