@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0C0F,60:14171B,100:9A5A0C&height=190&section=header&text=Chandra%20ObulaReddy&fontSize=46&fontColor=EFA23F&animation=fadeIn&fontAlignY=36&desc=Principal%20Software%20Engineer%20%E2%80%A2%20Technical%20Architect%20%E2%80%A2%20Mobile%20Solutions%20Architect&descAlignY=58&descSize=15&descColor=F3F1EC" width="100%" alt="Chandra ObulaReddy" />
 
 <a href="https://chandrachaan.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=EFA23F&center=true&vCenter=true&width=680&lines=8%2B+years+building+mobile%2C+web+%26+cloud+products.;Flutter+apps+used+by+100K%2B+people.;BLE%2C+wearables+%26+HealthKit+integrations.;AWS+platforms+from+idea+to+production.;Now%3A+local-first+AI+agents+that+do+real+work." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=EFA23F&center=true&vCenter=true&width=680&lines=8%2B+years+building+mobile%2C+web+%26+cloud+products.;Flutter+apps+used+by+100K%2B+people.;BLE%2C+wearables+%26+HealthKit+integrations.;AWS+platforms+from+idea+to+production.;Now%3A+local-first+AI+agents+that+do+real+work.;Teaching+developers+to+think+like+architects." alt="Typing intro" />
 </a>
 
 <p>
@@ -31,7 +31,53 @@ After hours I build **private, local-first AI tools** that automate everyday cho
 |:---:|:---:|:---:|:---:|
 | mobile, web & cloud apps delivered | users on platforms I've built | crash-free users | engineers led & mentored |
 
+<sub>Built products for **mPokket** · **Reliance** · **MSA Safety** · **KONE** · **Lochinvar** · **Sunstone**</sub>
+
 </div>
+
+---
+
+### 🧭 How I help teams
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📱 Idea to app store
+Take a product from rough idea to a production **Flutter** app on Android, iOS and Web, with the backend, CI/CD and analytics in place.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏛️ Architecture & rescue
+Review an existing app, fix slow screens and crashes, and set up a clean architecture the team can grow on.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📡 Hardware & health integrations
+**Bluetooth LE** devices, wearables, **HealthKit**, Google Fit and Fitbit, bridged to native Android and iOS code.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔐 Security & payments
+SSL pinning, secure content delivery, in-app purchases and payment gateways like Stripe and Razorpay.
+
+</td>
+</tr>
+</table>
+
+### 🎓 Teaching & mentoring
+
+I've led and mentored engineering teams for years, and I teach the way I wish I'd been taught: by building real apps.
+
+- **Flutter, end to end**: from your first widget to shipping on the Play Store and App Store
+- **Architecture for mobile**: Clean Architecture, BLoC, GetX and scaling a codebase
+- **Career growth**: moving from developer to senior, lead and architect
+- Formats: **1:1 mentoring**, **small-group live classes** and **workshops for teams**
 
 ---
 
@@ -184,7 +230,8 @@ End-to-end ownership of the **Progressive Web App** and the Android and iOS apps
 
 ### 🤝 Let's build something
 
-Open to **Principal Engineer, Technical Architect and Mobile Solutions Architect** conversations, and always happy to talk Flutter, BLE or AI agents.
+Have a product to build, an app that needs fixing, or a team to level up?<br/>
+Send me a message with what you're working on.
 
 <a href="https://chandrachaan.com/"><img src="https://img.shields.io/badge/Portfolio-chandrachaan.com-EFA23F?style=for-the-badge&logo=googlechrome&logoColor=0A0C0F" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/chandra-obulareddy"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
