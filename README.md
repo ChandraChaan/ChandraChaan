@@ -131,6 +131,7 @@ I've led and mentored engineering teams for years, and I teach the way I wish I'
 
 | Project | What it is |
 |---|---|
+| [**ScrollLess**](https://github.com/ChandraChaan/scroll-less) ![Stars](https://img.shields.io/github/stars/ChandraChaan/scroll-less?style=flat&color=EFA23F&label=%E2%98%85) [![release](https://img.shields.io/github/v/release/ChandraChaan/scroll-less?style=flat&color=EFA23F&label=apk)](https://github.com/ChandraChaan/scroll-less/releases/latest) | Android app that counts the Instagram Reels and YouTube Shorts you watch and how long you scroll, privately on your phone. [Download the APK](https://github.com/ChandraChaan/scroll-less/releases/latest) |
 | [**flutter-production-starter**](https://github.com/ChandraChaan/flutter-production-starter) ![Stars](https://img.shields.io/github/stars/ChandraChaan/flutter-production-starter?style=flat&color=EFA23F&label=%E2%98%85) | Template app: clean architecture, Riverpod 3, go_router, environments, typed errors, SSL pinning, English + Hindi, tests and CI |
 | [**flutter-architect-handbook**](https://github.com/ChandraChaan/flutter-architect-handbook) ![Stars](https://img.shields.io/github/stars/ChandraChaan/flutter-architect-handbook?style=flat&color=EFA23F&label=%E2%98%85) | 67 Flutter interview and architecture questions, junior to architect |
 | [**ble_device_simulator**](https://github.com/ChandraChaan/ble_device_simulator) ![Stars](https://img.shields.io/github/stars/ChandraChaan/ble_device_simulator?style=flat&color=EFA23F&label=%E2%98%85) [![pub](https://img.shields.io/pub/v/ble_device_simulator?style=flat&color=EFA23F&label=pub)](https://pub.dev/packages/ble_device_simulator) | Simulated BLE heart-rate, BP, SpO2, cycling and running devices for testing apps without hardware |
@@ -219,7 +220,6 @@ End-to-end ownership of the **Progressive Web App** and the Android and iOS apps
 - 🎬 **CineForge**: an AI engine that turns an idea into a finished cinematic video (script, voices, animation, music, subtitles)
 - 📞 **AI phone assistant**: answers calls in Telugu and English and sends summaries to Telegram
 - 💰 **MoneyLens**: private, offline-first personal finance app for India
-- 📵 **ScrollLess**: counts Reels and Shorts and tracks scrolling time, privately on-device
 - ⚙️ **Vajra Automate**: Android automation app with smart workflows and battery alerts
 
 ---
