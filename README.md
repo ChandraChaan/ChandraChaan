@@ -99,17 +99,43 @@ I've led and mentored engineering teams for years, and I teach the way I wish I'
 
 <table>
 <tr>
-<td>
+<td width="50%" valign="top">
 
-#### [🎯 jobright](https://github.com/ChandraChaan/jobright) &nbsp; ![Stars](https://img.shields.io/github/stars/ChandraChaan/jobright?style=flat&color=EFA23F) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![License](https://img.shields.io/badge/license-MIT-green?style=flat)
+#### [📡 ble_gatt_parser](https://pub.dev/packages/ble_gatt_parser)
 
-**A free, honest AI job-search agent that runs on your own computer.** It finds jobs that fit you, tailors a fact-checked resume for each one, and only applies when you press Approve. No API key needed. Works with LinkedIn, Naukri, Indeed, Reed, Greenhouse and Lever.
+[![pub](https://img.shields.io/pub/v/ble_gatt_parser?color=EFA23F)](https://pub.dev/packages/ble_gatt_parser) [![points](https://img.shields.io/pub/points/ble_gatt_parser?color=EFA23F)](https://pub.dev/packages/ble_gatt_parser/score) [![likes](https://img.shields.io/pub/likes/ble_gatt_parser?color=EFA23F)](https://pub.dev/packages/ble_gatt_parser/score)
 
-`AI agent` · `Playwright` · `FastAPI` · `Ollama` · `Claude` · `Open source`
+**Turns raw Bluetooth bytes from heart-rate straps, BP cuffs, glucose meters, oximeters, scales and cycling sensors into typed Dart objects.** Follows the Bluetooth SIG specs, works with any BLE plugin, zero dependencies, every platform including web.
+
+`Dart` · `Flutter` · `BLE` · `HealthTech` · `pub.dev`
+
+</td>
+<td width="50%" valign="top">
+
+#### [🎯 jobright](https://github.com/ChandraChaan/jobright)
+
+![Stars](https://img.shields.io/github/stars/ChandraChaan/jobright?style=flat&color=EFA23F) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![License](https://img.shields.io/badge/license-MIT-green?style=flat)
+
+**A free, honest AI job-search agent that runs on your own computer.** It finds jobs that fit you, tailors a fact-checked resume for each one, and only applies when you press Approve. No API key needed.
+
+`AI agent` · `Playwright` · `FastAPI` · `Ollama` · `Claude`
 
 </td>
 </tr>
 </table>
+
+### 🤝 Contributing to Flutter and its ecosystem
+
+<sub>Bugs I found and fixed in projects Flutter developers use every day. Status badges update live.</sub>
+
+| Project | Fix | Status |
+|---|---|---|
+| [**flutter/flutter**](https://github.com/flutter/flutter/pull/195398) | `TableBorder` lost its rounded corners while animating | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/flutter/195398?label=PR)](https://github.com/flutter/flutter/pull/195398) |
+| [**material_ui**](https://github.com/flutter/packages/pull/13449) | SnackBar theme dropped its close button during theme animations | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13449?label=PR)](https://github.com/flutter/packages/pull/13449) |
+| [**cupertino_ui**](https://github.com/flutter/packages/pull/13450) | iOS theme equality ignored the selection handle color | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13450?label=PR)](https://github.com/flutter/packages/pull/13450) |
+| [**camera**](https://github.com/flutter/packages/pull/13452) | Recording events broke the `==`/`hashCode` contract | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13452?label=PR)](https://github.com/flutter/packages/pull/13452) |
+| [**share_plus**](https://github.com/fluttercommunity/plus_plugins/pull/4010) | Windows builds failed under C++20 | [![PR](https://img.shields.io/github/pulls/detail/state/fluttercommunity/plus_plugins/4010?label=PR)](https://github.com/fluttercommunity/plus_plugins/pull/4010) |
+| [**health**](https://github.com/carp-dk/carp-health-flutter/pull/535) | Android workout summaries were always empty | [![PR](https://img.shields.io/github/pulls/detail/state/carp-dk/carp-health-flutter/535?label=PR)](https://github.com/carp-dk/carp-health-flutter/pull/535) |
 
 ### 🏗️ Products I've architected
 
