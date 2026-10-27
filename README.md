@@ -1,283 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0C0F,60:14171B,100:9A5A0C&height=190&section=header&text=Chandra%20ObulaReddy&fontSize=46&fontColor=EFA23F&animation=fadeIn&fontAlignY=36&desc=Principal%20Software%20Engineer%20%E2%80%A2%20Technical%20Architect%20%E2%80%A2%20Mobile%20Solutions%20Architect&descAlignY=58&descSize=15&descColor=F3F1EC" width="100%" alt="Chandra ObulaReddy" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0C0F,60:14171B,100:9A5A0C&height=170&section=header&text=Chandra%20ObulaReddy&fontSize=44&fontColor=EFA23F&animation=fadeIn&fontAlignY=38&desc=Principal%20Software%20Engineer%20(Mobile)%20%E2%80%A2%20Flutter%20%E2%80%A2%20BLE%20%26%20Wearables%20%E2%80%A2%20FinTech%20%E2%80%A2%20AWS&descAlignY=60&descSize=15&descColor=F3F1EC" width="100%" alt="Chandra ObulaReddy, Principal Software Engineer (Mobile)" />
 
-<a href="https://chandrachaan.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=EFA23F&center=true&vCenter=true&width=680&lines=8%2B+years+building+mobile%2C+web+%26+cloud+products.;Flutter+apps+used+by+100K%2B+people.;BLE%2C+wearables+%26+HealthKit+integrations.;AWS+platforms+from+idea+to+production.;Now%3A+local-first+AI+agents+that+do+real+work.;Teaching+developers+to+think+like+architects." alt="Typing intro" />
-</a>
-
-<p>
-  <a href="https://chandrachaan.com/"><img src="https://img.shields.io/badge/Portfolio-chandrachaan.com-EFA23F?style=for-the-badge&logo=googlechrome&logoColor=0A0C0F" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/chandra-obulareddy"><img src="https://img.shields.io/badge/LinkedIn-chandra--obulareddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Bangalore-India-14171B?style=for-the-badge&logo=googlemaps&logoColor=EFA23F" alt="Bangalore, India" />
-  <img src="https://komarev.com/ghpvc/?username=ChandraChaan&style=for-the-badge&color=9A5A0C&label=Profile+views" alt="Profile views" />
-</p>
+[![Portfolio](https://img.shields.io/badge/chandrachaan.com-EFA23F?style=flat-square&logo=googlechrome&logoColor=0A0C0F)](https://chandrachaan.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandra-obulareddy)
+![Bangalore, India](https://img.shields.io/badge/Bangalore,%20India-14171B?style=flat-square&logo=googlemaps&logoColor=EFA23F)
 
 </div>
 
----
+I'm a **Principal Software Engineer (Mobile) at [mPokket](https://www.mpokket.in/)**. For 8+ years I've designed and shipped mobile, web and cloud products in **FinTech, HealthTech, EdTech, HRMS and e-commerce**, and I've led and mentored the teams that build them.
 
-### 👋 About me
-
-I'm a **Principal Software Engineer (Mobile) at [mPokket](https://www.mpokket.in/)** with **8+ years** of designing, architecting and shipping scalable mobile, web and cloud applications across **FinTech, HealthTech, EdTech, HRMS and E-Commerce**.
-
-I lead architecture and technical roadmaps, mentor engineers, and still love writing the code myself. My specialties are **Flutter architecture**, **Bluetooth Low Energy and native Android/iOS integrations**, **wearables and HealthKit**, **AWS**, and **application security**.
-
-After hours I build **private, local-first AI tools** that automate everyday chores.
+My work centres on **Flutter architecture**, **Bluetooth LE, wearables and HealthKit**, **payments and app security**, and **AWS**. Outside work I build small, private apps and open-source tools, and I write the learning material I wish I'd had.
 
 <div align="center">
 
-| 🚀 15+ | 👥 100K+ | 💎 99.8%+ | 🧑‍🤝‍🧑 8 |
+| **15+** | **100K+** | **99.8%+** | **8** |
 |:---:|:---:|:---:|:---:|
-| mobile, web & cloud apps delivered | users on platforms I've built | crash-free users | engineers led & mentored |
-
-<sub>Built products for **mPokket** · **Reliance** · **MSA Safety** · **KONE** · **Lochinvar** · **Sunstone**</sub>
+| apps shipped | users on platforms I've built | crash-free users | engineers led |
 
 </div>
 
 ---
 
-### 🧭 How I help teams
+### Apps you can use today
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Small apps that each do one job well. Open source, no ads, and your data stays on your device.
 
-#### 📱 Idea to app store
-Take a product from rough idea to a production **Flutter** app on Android, iOS and Web, with the backend, CI/CD and analytics in place.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏛️ Architecture & rescue
-Review an existing app, fix slow screens and crashes, and set up a clean architecture the team can grow on.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📡 Hardware & health integrations
-**Bluetooth LE** devices, wearables, **HealthKit**, Google Fit and Fitbit, bridged to native Android and iOS code.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔐 Security & payments
-SSL pinning, secure content delivery, in-app purchases and payment gateways like Stripe and Razorpay.
-
-</td>
-</tr>
-</table>
-
-### 🎓 Teaching & mentoring
-
-I've led and mentored engineering teams for years, and I teach the way I wish I'd been taught: by building real apps.
-
-- **Flutter, end to end**: from your first widget to shipping on the Play Store and App Store
-- **Architecture for mobile**: Clean Architecture, BLoC, GetX and scaling a codebase
-- **Career growth**: moving from developer to senior, lead and architect
-- Formats: **1:1 mentoring**, **small-group live classes** and **workshops for teams**
-- Free to everyone: the **[Flutter Architect Handbook](https://github.com/ChandraChaan/flutter-architect-handbook)**, 67 interview and architecture questions from junior to architect
-
----
-
-### 💼 Experience
-
-| When | Role | Highlights |
+| App | What it does | Get it |
 |---|---|---|
-| **Apr 2026 – now** | **Principal Software Engineer (Mobile)**<br/>mPokket Financial Services | Leading **SkillZi**, an AI-powered learning and rewards app for 100K+ users. Built in-app purchases, referrals and daily rewards, plus SSL pinning and secure video streaming. |
-| **Sep 2025 – Apr 2026** | **Technical Architect**<br/>SEWB (via Cosmos Media) | Architected and shipped the MVP of an **AWS digital health platform** with AI health features and Apple HealthKit, Google Fit, Fitbit and Samsung Health integrations. |
-| **Jun 2022 – Sep 2025** | **Senior Software Engineer**<br/>SoftDEL Systems | Delivered **MSA Safety XS Connect** (BLE via Flutter Method Channels to native Java and Swift), **Lochinvar** PWA and mobile apps, **Asset Vantage** and **KONE**. |
-| **Feb 2021 – Jun 2022** | **Mobile Application Developer Lead**<br/>Reliance Industries | Led the Flutter team behind **People First** (HRMS), **Sunstone** (EdTech, 100K+ students) and **Plus Pin Pharma**. Integrated Paytm, Stripe and Razorpay. |
-| **Mar 2018 – Jan 2021** | **Software Engineer**<br/>Marvelous Tech Solutions | Full-stack web and Flutter apps: **EstreetMart**, **GastroCare**, **Edecofy** and **NRIbuddy**, on PHP (Laravel, CodeIgniter), MySQL and Firebase. |
+| [**ScrollLess**](https://github.com/ChandraChaan/scroll-less) | Counts the Instagram Reels and YouTube Shorts you watch and how long you scroll | [Android APK](https://github.com/ChandraChaan/scroll-less/releases/latest) |
+| [**Data Pack Meter**](https://github.com/ChandraChaan/data-pack-meter) | Live speed in the status bar and how much of today's data pack is left, per app | [Android APK](https://github.com/ChandraChaan/data-pack-meter/releases/latest) |
+| [**Medicine Reminder**](https://github.com/ChandraChaan/medicine-reminder) | Reminders for elderly parents, spoken in Telugu, Hindi or English, with a family check for missed doses | [Android APK](https://github.com/ChandraChaan/medicine-reminder/releases/latest) |
+| [**DueDay**](https://github.com/ChandraChaan/bill-due-reminder) | Bill and EMI due dates read from your SMS on the phone, with reminders before they're due | [Android APK](https://github.com/ChandraChaan/bill-due-reminder/releases/latest) |
+| [**Chat Media Cleaner**](https://github.com/ChandraChaan/chat-media-cleaner) | Finds large, duplicate and old chat media; you review everything, with a 7-day trash | [Android APK](https://github.com/ChandraChaan/chat-media-cleaner/releases/latest) |
+| [**Tambola Host**](https://github.com/ChandraChaan/tambola-host) | Housie caller with voice, printable tickets and a claim checker | [Open in browser](https://chandrachaan.github.io/tambola-host/) |
+| [**Gully Cricket Scorer**](https://github.com/ChandraChaan/gully-cricket-scorer) | Ball-by-ball scoring for street and weekend matches, works offline | [Open in browser](https://chandrachaan.github.io/gully-cricket-scorer/) |
+| [**Heart Rate Web**](https://github.com/ChandraChaan/heart-rate-web) | Any Bluetooth heart-rate strap in the browser: live bpm, zones, HRV, export | [Open in browser](https://chandrachaan.github.io/heart-rate-web/) |
 
-<sub>🎓 B.Tech in Computer Science, JNTU Anantapur</sub>
+### Dart & Flutter packages
 
----
+| Package | What it does |
+|---|---|
+| [**ble_gatt_parser**](https://pub.dev/packages/ble_gatt_parser) [![pub](https://img.shields.io/pub/v/ble_gatt_parser?style=flat-square&color=EFA23F&label=pub)](https://pub.dev/packages/ble_gatt_parser) | Turns raw bytes from heart-rate straps, BP cuffs, oximeters, scales and cycling sensors into typed Dart objects. [Playground](https://chandrachaan.github.io/ble_gatt_parser/) |
+| [**ble_device_simulator**](https://pub.dev/packages/ble_device_simulator) [![pub](https://img.shields.io/pub/v/ble_device_simulator?style=flat-square&color=EFA23F&label=pub)](https://pub.dev/packages/ble_device_simulator) | Simulated BLE health and fitness devices, for testing apps without hardware |
+| [**upi_kit**](https://github.com/ChandraChaan/upi_kit) | Builds, parses and validates UPI payment links and Bharat QR codes, with CRC checks. [Playground](https://chandrachaan.github.io/upi_kit/) |
+| [**india_validators**](https://pub.dev/packages/india_validators) [![pub](https://img.shields.io/pub/v/india_validators?style=flat-square&color=EFA23F&label=pub)](https://pub.dev/packages/india_validators) | PAN, GSTIN, Aadhaar, IFSC, UPI ID, mobile and PIN code validation with real checksums |
 
-### 🚀 Featured open source
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [📡 ble_gatt_parser](https://pub.dev/packages/ble_gatt_parser)
-
-[![pub](https://img.shields.io/pub/v/ble_gatt_parser?color=EFA23F)](https://pub.dev/packages/ble_gatt_parser) [![points](https://img.shields.io/pub/points/ble_gatt_parser?color=EFA23F)](https://pub.dev/packages/ble_gatt_parser/score) [![likes](https://img.shields.io/pub/likes/ble_gatt_parser?color=EFA23F)](https://pub.dev/packages/ble_gatt_parser/score)
-
-**Turns raw Bluetooth bytes from heart-rate straps, BP cuffs, glucose meters, oximeters, scales and cycling sensors into typed Dart objects.** Follows the Bluetooth SIG specs, works with any BLE plugin, zero dependencies, every platform including web.
-
-▶️ **[Try the live playground](https://chandrachaan.github.io/ble_gatt_parser/)**
-
-`Dart` · `Flutter` · `BLE` · `HealthTech` · `pub.dev`
-
-</td>
-<td width="50%" valign="top">
-
-#### [🎯 jobright](https://github.com/ChandraChaan/jobright)
-
-![Stars](https://img.shields.io/github/stars/ChandraChaan/jobright?style=flat&color=EFA23F) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![License](https://img.shields.io/badge/license-MIT-green?style=flat)
-
-**A free, honest AI job-search agent that runs on your own computer.** It finds jobs that fit you, tailors a fact-checked resume for each one, and only applies when you press Approve. No API key needed.
-
-`AI agent` · `Playwright` · `FastAPI` · `Ollama` · `Claude`
-
-</td>
-</tr>
-</table>
-
-#### More open source
+### For developers
 
 | Project | What it is |
 |---|---|
-| [**ScrollLess**](https://github.com/ChandraChaan/scroll-less) ![Stars](https://img.shields.io/github/stars/ChandraChaan/scroll-less?style=flat&color=EFA23F&label=%E2%98%85) [![release](https://img.shields.io/github/v/release/ChandraChaan/scroll-less?style=flat&color=EFA23F&label=apk)](https://github.com/ChandraChaan/scroll-less/releases/latest) | Android app that counts the Instagram Reels and YouTube Shorts you watch and how long you scroll, privately on your phone. [Download the APK](https://github.com/ChandraChaan/scroll-less/releases/latest) |
-| [**flutter-production-starter**](https://github.com/ChandraChaan/flutter-production-starter) ![Stars](https://img.shields.io/github/stars/ChandraChaan/flutter-production-starter?style=flat&color=EFA23F&label=%E2%98%85) | Template app: clean architecture, Riverpod 3, go_router, environments, typed errors, SSL pinning, English + Hindi, tests and CI |
-| [**flutter-architect-handbook**](https://github.com/ChandraChaan/flutter-architect-handbook) ![Stars](https://img.shields.io/github/stars/ChandraChaan/flutter-architect-handbook?style=flat&color=EFA23F&label=%E2%98%85) | 67 Flutter interview and architecture questions, junior to architect |
-| [**ble_device_simulator**](https://github.com/ChandraChaan/ble_device_simulator) ![Stars](https://img.shields.io/github/stars/ChandraChaan/ble_device_simulator?style=flat&color=EFA23F&label=%E2%98%85) [![pub](https://img.shields.io/pub/v/ble_device_simulator?style=flat&color=EFA23F&label=pub)](https://pub.dev/packages/ble_device_simulator) | Simulated BLE heart-rate, BP, SpO2, cycling and running devices for testing apps without hardware |
-| [**india_validators**](https://github.com/ChandraChaan/india_validators) ![Stars](https://img.shields.io/github/stars/ChandraChaan/india_validators?style=flat&color=EFA23F&label=%E2%98%85) [![pub](https://img.shields.io/pub/v/india_validators?style=flat&color=EFA23F&label=pub)](https://pub.dev/packages/india_validators) | PAN, GSTIN (with checksum), Aadhaar (Verhoeff), IFSC, UPI ID, mobile and PIN code validation for Dart and Flutter |
-| [**mobile-system-design**](https://github.com/ChandraChaan/mobile-system-design) ![Stars](https://img.shields.io/github/stars/ChandraChaan/mobile-system-design?style=flat&color=EFA23F&label=%E2%98%85) | Worked mobile system design case studies: UPI payments, wearable sync, offline chat, feeds, live tracking, uploads, staged rollouts. [Read online](https://chandrachaan.github.io/mobile-system-design/) |
-| [**flutter-agent-skills**](https://github.com/ChandraChaan/flutter-agent-skills) ![Stars](https://img.shields.io/github/stars/ChandraChaan/flutter-agent-skills?style=flat&color=EFA23F&label=%E2%98%85) | Rules (`AGENTS.md`) and skills that make AI coding agents write production-quality Flutter; a Claude Code plugin that also works with Cursor, Copilot and Codex |
-| [**upi_kit**](https://github.com/ChandraChaan/upi_kit) ![Stars](https://img.shields.io/github/stars/ChandraChaan/upi_kit?style=flat&color=EFA23F&label=%E2%98%85) [![pub](https://img.shields.io/pub/v/upi_kit?style=flat&color=EFA23F&label=pub)](https://pub.dev/packages/upi_kit) | Build, parse and validate UPI payment links and Bharat QR codes, with CRC checks. [Live playground](https://chandrachaan.github.io/upi_kit/) |
+| [**mobile-system-design**](https://github.com/ChandraChaan/mobile-system-design) | Worked mobile system design case studies: UPI payments, wearable sync, offline chat, live tracking and more. [Read online](https://chandrachaan.github.io/mobile-system-design/) |
+| [**flutter-architect-handbook**](https://github.com/ChandraChaan/flutter-architect-handbook) | 67 Flutter interview and architecture questions, junior to architect. [Practise as flashcards](https://chandrachaan.github.io/flutter-interview-cards/) |
+| [**flutter-agent-skills**](https://github.com/ChandraChaan/flutter-agent-skills) | `AGENTS.md` rules and skills that make AI coding agents write production-quality Flutter |
+| [**flutter-production-starter**](https://github.com/ChandraChaan/flutter-production-starter) | Template app: clean architecture, Riverpod 3, go_router, environments, SSL pinning, tests and CI |
+| [**jobright**](https://github.com/ChandraChaan/jobright) | A local AI job-search agent that tailors resumes from real facts and applies only with your approval |
 
-### 🤝 Contributing to Flutter and its ecosystem
-
-<sub>Bugs I found and fixed in projects Flutter developers use every day. Status badges update live.</sub>
+### Contributions to Flutter and its ecosystem
 
 | Project | Fix | Status |
 |---|---|---|
-| [**flutter/flutter**](https://github.com/flutter/flutter/pull/195398) | `TableBorder` lost its rounded corners while animating | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/flutter/195398?label=PR)](https://github.com/flutter/flutter/pull/195398) |
-| [**flutter/flutter**](https://github.com/flutter/flutter/pull/195404) | Text fields ignored a changed spell-check selection color | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/flutter/195404?label=PR)](https://github.com/flutter/flutter/pull/195404) |
-| [**material_ui**](https://github.com/flutter/packages/pull/13449) | SnackBar theme dropped its close button during theme animations | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13449?label=PR)](https://github.com/flutter/packages/pull/13449) |
-| [**cupertino_ui**](https://github.com/flutter/packages/pull/13450) | iOS theme equality ignored the selection handle color | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13450?label=PR)](https://github.com/flutter/packages/pull/13450) |
-| [**camera**](https://github.com/flutter/packages/pull/13452) | Recording events broke the `==`/`hashCode` contract | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13452?label=PR)](https://github.com/flutter/packages/pull/13452) |
-| [**share_plus**](https://github.com/fluttercommunity/plus_plugins/pull/4010) | Windows builds failed under C++20 | [![PR](https://img.shields.io/github/pulls/detail/state/fluttercommunity/plus_plugins/4010?label=PR)](https://github.com/fluttercommunity/plus_plugins/pull/4010) |
-| [**health**](https://github.com/carp-dk/carp-health-flutter/pull/535) | Android workout summaries were always empty | [![PR](https://img.shields.io/github/pulls/detail/state/carp-dk/carp-health-flutter/535?label=PR)](https://github.com/carp-dk/carp-health-flutter/pull/535) |
-
-### 🏗️ Products I've architected
-
-<sub>Production work for employers and clients. The code is closed source, so there are no links, but happy to walk you through the architecture.</sub>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎓 SkillZi · mPokket
-AI-powered learning and rewards app for **100K+ users** on Android and iOS. In-app purchases, referrals, daily rewards, **SSL pinning** and secure cookie-authenticated video streaming.
-
-`Flutter` `IAP` `App security` `Video streaming`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🩺 SEWB Digital Health Platform
-Took an **AWS** health platform from concept to production MVP. Unified data from **Apple HealthKit, Google Fit, Fitbit and Samsung Health**, with AI health features and CI/CD.
-
-`Flutter` `AWS` `Node.js` `Wearables` `AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🦺 XS Connect · MSA Safety
-Enterprise safety platform talking to **Bluetooth LE hardware** through native **Java (Android)** and **Swift (iOS)** modules bridged to Flutter with Method Channels.
-
-`Flutter` `BLE` `Method Channels` `Java` `Swift`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏫 Sunstone · EdTech
-Student platform serving **100K+ students**: admissions, fee management, payments and digital learning at scale.
-
-`Flutter` `Payments` `Scale`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 👥 People First · Reliance
-Enterprise HRMS covering onboarding, attendance, payroll and employee management, built on **DDD architecture** with GetX, BLoC and Cubit.
-
-`Flutter` `DDD` `BLoC` `GetX`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔥 Lochinvar
-End-to-end ownership of the **Progressive Web App** and the Android and iOS apps, from architecture to release.
-
-`Flutter Web` `PWA` `Android` `iOS`
-
-</td>
-</tr>
-</table>
-
-### 🔭 Building right now
-
-- 🎬 **CineForge**: an AI engine that turns an idea into a finished cinematic video (script, voices, animation, music, subtitles)
-- 📞 **AI phone assistant**: answers calls in Telugu and English and sends summaries to Telegram
-- 💰 **MoneyLens**: private, offline-first personal finance app for India
-- ⚙️ **Vajra Automate**: Android automation app with smart workflows and battery alerts
+| [flutter/flutter](https://github.com/flutter/flutter/pull/195398) | `TableBorder` lost its rounded corners while animating | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/flutter/195398?label=PR&style=flat-square)](https://github.com/flutter/flutter/pull/195398) |
+| [flutter/flutter](https://github.com/flutter/flutter/pull/195404) | Text fields ignored a changed spell-check selection colour | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/flutter/195404?label=PR&style=flat-square)](https://github.com/flutter/flutter/pull/195404) |
+| [flutter/packages · material_ui](https://github.com/flutter/packages/pull/13449) | SnackBar theme dropped its close button during theme animations | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13449?label=PR&style=flat-square)](https://github.com/flutter/packages/pull/13449) |
+| [flutter/packages · cupertino_ui](https://github.com/flutter/packages/pull/13450) | iOS theme equality ignored the selection handle colour | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13450?label=PR&style=flat-square)](https://github.com/flutter/packages/pull/13450) |
+| [flutter/packages · camera](https://github.com/flutter/packages/pull/13452) | Recording events broke the `==`/`hashCode` contract | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13452?label=PR&style=flat-square)](https://github.com/flutter/packages/pull/13452) |
+| [plus_plugins · share_plus](https://github.com/fluttercommunity/plus_plugins/pull/4010) | Windows builds failed under C++20 | [![PR](https://img.shields.io/github/pulls/detail/state/fluttercommunity/plus_plugins/4010?label=PR&style=flat-square)](https://github.com/fluttercommunity/plus_plugins/pull/4010) |
+| [carp-health-flutter · health](https://github.com/carp-dk/carp-health-flutter/pull/535) | Android workout summaries were always empty | [![PR](https://img.shields.io/github/pulls/detail/state/carp-dk/carp-health-flutter/535?label=PR&style=flat-square)](https://github.com/carp-dk/carp-health-flutter/pull/535) |
 
 ---
 
-### 🛠️ Tech stack
+### Experience
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift,androidstudio,nodejs,python,fastapi,php,laravel,js,aws,firebase,mongodb,mysql&perline=8" alt="Tech stack" />
+| When | Role | Highlights |
+|---|---|---|
+| **Apr 2026 – now** | **Principal Software Engineer (Mobile)**, mPokket | Leading **SkillZi**, an AI-powered learning and rewards app for 100K+ users: in-app purchases, referrals, SSL pinning and secure video streaming |
+| **Sep 2025 – Apr 2026** | **Technical Architect**, SEWB (via Cosmos Media) | Took an **AWS digital health platform** from concept to MVP, with AI features and HealthKit, Google Fit, Fitbit and Samsung Health integrations |
+| **Jun 2022 – Sep 2025** | **Senior Software Engineer**, SoftDEL Systems | **MSA Safety XS Connect** (BLE hardware via native Java and Swift bridged to Flutter), **Lochinvar** PWA and apps, **KONE**, **Asset Vantage** |
+| **Feb 2021 – Jun 2022** | **Mobile Lead**, Reliance Industries | Led the Flutter team for **People First** (HRMS), **Sunstone** (EdTech, 100K+ students) and **Plus Pin Pharma**; Paytm, Stripe and Razorpay integrations |
+| **Mar 2018 – Jan 2021** | **Software Engineer**, Marvelous Tech Solutions | Full-stack web and Flutter apps: EstreetMart, GastroCare, Edecofy, NRIbuddy |
+
+<sub>B.Tech in Computer Science, JNTU Anantapur</sub>
+
+### Teaching
+
+I mentor engineers and teach Flutter by building real apps, from first widget to production architecture. The free material is all here: the [handbook](https://github.com/ChandraChaan/flutter-architect-handbook), the [flashcards](https://chandrachaan.github.io/flutter-interview-cards/) and the [system design guide](https://chandrachaan.github.io/mobile-system-design/).
+
+### Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift,androidstudio,nodejs,python,fastapi,php,laravel,js,aws,firebase,mongodb,mysql&perline=16" alt="Flutter, Dart, Kotlin, Java, Swift, Android Studio, Node.js, Python, FastAPI, PHP, Laravel, JavaScript, AWS, Firebase, MongoDB, MySQL" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Bluetooth%20LE-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="Bluetooth LE" />
-  <img src="https://img.shields.io/badge/HealthKit-FF2D55?style=flat-square&logo=apple&logoColor=white" alt="HealthKit" />
-  <img src="https://img.shields.io/badge/Google%20Fit-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Fit" />
-  <img src="https://img.shields.io/badge/Fitbit-00B0B9?style=flat-square&logo=fitbit&logoColor=white" alt="Fitbit" />
-  <img src="https://img.shields.io/badge/SSL%20Pinning-14171B?style=flat-square&logo=letsencrypt&logoColor=EFA23F" alt="SSL pinning" />
-  <img src="https://img.shields.io/badge/BLoC%20%7C%20GetX%20%7C%20Cubit-02569B?style=flat-square&logo=flutter&logoColor=white" alt="BLoC, GetX, Cubit" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
-  <img src="https://img.shields.io/badge/Crashlytics-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Crashlytics" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Stripe%20%7C%20Razorpay%20%7C%20Paytm-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Payments" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-</p>
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChandraChaan&show_icons=true&include_all_commits=true&count_private=true&bg_color=0A0C0F&title_color=EFA23F&icon_color=EFA23F&text_color=F3F1EC&hide_border=true&border_radius=10" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraChaan&layout=compact&langs_count=8&bg_color=0A0C0F&title_color=EFA23F&text_color=F3F1EC&hide_border=true&border_radius=10" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChandraChaan&background=0A0C0F&ring=EFA23F&fire=EFA23F&currStreakLabel=EFA23F&sideLabels=F3F1EC&currStreakNum=F3F1EC&sideNums=F3F1EC&dates=7D8691&stroke=14171B&hide_border=true&border_radius=10" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChandraChaan/ChandraChaan/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/ChandraChaan/ChandraChaan/output/github-snake.svg" alt="Contribution snake" />
-  </picture>
-</p>
+**Also:** Bluetooth LE · HealthKit, Google Fit, Fitbit · BLoC, Riverpod, GetX · SSL pinning · Stripe, Razorpay, Paytm, UPI · PWA · CI/CD · Playwright · local LLMs (Ollama) · Claude
 
 ---
 
 <div align="center">
-
-### 🤝 Let's build something
-
-Have a product to build, an app that needs fixing, or a team to level up?<br/>
-Send me a message with what you're working on.
-
-<a href="https://chandrachaan.com/"><img src="https://img.shields.io/badge/Portfolio-chandrachaan.com-EFA23F?style=for-the-badge&logo=googlechrome&logoColor=0A0C0F" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/chandra-obulareddy"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9A5A0C,40:14171B,100:0A0C0F&height=100&section=footer" width="100%" alt="" />
-
+<sub><a href="https://chandrachaan.com/">chandrachaan.com</a> · <a href="https://linkedin.com/in/chandra-obulareddy">LinkedIn</a></sub>
 </div>
