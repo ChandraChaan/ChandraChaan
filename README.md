@@ -20,6 +20,8 @@ My work centres on **Flutter architecture**, **Bluetooth LE, wearables and Healt
 
 </div>
 
+> **Open to freelance and consulting work.** Flutter apps from idea to Play Store and App Store, BLE and wearable integrations, payments, app security reviews, and rescuing slow or crashing apps. Message me on [LinkedIn](https://linkedin.com/in/chandra-obulareddy) or through [chandrachaan.com](https://chandrachaan.com/).
+
 ---
 
 ### Apps you can use today
@@ -63,6 +65,9 @@ Small apps that each do one job well. Open source, no ads, and your data stays o
 
 | Project | Fix | Status |
 |---|---|---|
+| [flutter/flutter](https://github.com/flutter/flutter/pull/195756) | Screen readers kept announcing a text's old label or language after it changed | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/flutter/195756?label=PR&style=flat-square)](https://github.com/flutter/flutter/pull/195756) |
+| [flutter/flutter](https://github.com/flutter/flutter/pull/195758) | Animated box decorations lost their blend mode until the last frame | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/flutter/195758?label=PR&style=flat-square)](https://github.com/flutter/flutter/pull/195758) |
+| [flutter/packages · material_ui](https://github.com/flutter/packages/pull/13517) | Button theme equality ignored the button bar layout | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13517?label=PR&style=flat-square)](https://github.com/flutter/packages/pull/13517) |
 | [flutter/flutter](https://github.com/flutter/flutter/pull/195398) | `TableBorder` lost its rounded corners while animating | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/flutter/195398?label=PR&style=flat-square)](https://github.com/flutter/flutter/pull/195398) |
 | [flutter/flutter](https://github.com/flutter/flutter/pull/195404) | Text fields ignored a changed spell-check selection colour | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/flutter/195404?label=PR&style=flat-square)](https://github.com/flutter/flutter/pull/195404) |
 | [flutter/packages · material_ui](https://github.com/flutter/packages/pull/13449) | SnackBar theme dropped its close button during theme animations | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13449?label=PR&style=flat-square)](https://github.com/flutter/packages/pull/13449) |
