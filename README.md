@@ -20,7 +20,7 @@ My work centres on **Flutter architecture**, **Bluetooth LE, wearables and Healt
 
 </div>
 
-> **Open to freelance and consulting work.** Flutter apps from idea to Play Store and App Store, BLE and wearable integrations, payments, app security reviews, and rescuing slow or crashing apps. Message me on [LinkedIn](https://linkedin.com/in/chandra-obulareddy) or through [chandrachaan.com](https://chandrachaan.com/).
+> Message me on [LinkedIn](https://linkedin.com/in/chandra-obulareddy) or through [chandrachaan.com](https://chandrachaan.com/).
 
 ---
 
