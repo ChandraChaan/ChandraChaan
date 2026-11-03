@@ -26,10 +26,15 @@ My work centres on **Flutter architecture**, **Bluetooth LE, wearables and Healt
 
 ### Apps you can use today
 
-Small apps that each do one job well. Open source, no ads, and your data stays on your device.
+Small apps that each do one job well. Open source, no ads, and the single-player ones keep your data on your device.
 
 | App | What it does | Get it |
 |---|---|---|
+| [**Devalay**](https://github.com/ChandraChaan/devalay) | Free, ad-free Hindu devotional app: aarti and bhajans, Bhagavad Gita, Panchang, virtual Mandir, japa mala and Rashifal, with Telugu support | [Android APK](https://github.com/ChandraChaan/devalay/releases/latest) · [Website](https://chandrachaan.github.io/devalay/) |
+| [**Chittilata**](https://github.com/ChandraChaan/chittilata) | The Telugu paper-chit games Chittilu Aata and Raja Rani as real-time multiplayer, with the game rules enforced on the server so nobody can cheat | [Android APK](https://github.com/ChandraChaan/chittilata/releases/latest) |
+| [**Puli Meka**](https://github.com/ChandraChaan/Puli-Meka-Game) | Tiger and Goats, the traditional board game of Kadapa and Rayalaseema, in Telugu and English | [Android APK](https://github.com/ChandraChaan/Puli-Meka-Game/releases/latest) |
+| [**Grabbit**](https://github.com/ChandraChaan/grabbit) | Android browser that finds videos, audio and images on a page and downloads them, including HLS streams | [Android APK](https://github.com/ChandraChaan/grabbit/releases/latest) |
+| [**Tatkal Helper**](https://github.com/ChandraChaan/tatkal-helper) | Chrome extension for IRCTC Tatkal booking: saved passengers, one-click form fill and a window countdown; you do every click | [Download](https://github.com/ChandraChaan/tatkal-helper/releases/latest) · [Website](https://chandrachaan.github.io/tatkal-helper/) |
 | [**ScrollLess**](https://github.com/ChandraChaan/scroll-less) | Counts the Instagram Reels and YouTube Shorts you watch and how long you scroll | [Android APK](https://github.com/ChandraChaan/scroll-less/releases/latest) |
 | [**Data Pack Meter**](https://github.com/ChandraChaan/data-pack-meter) | Live speed in the status bar and how much of today's data pack is left, per app | [Android APK](https://github.com/ChandraChaan/data-pack-meter/releases/latest) |
 | [**Notification Batch**](https://github.com/ChandraChaan/notification-batch) | Holds noisy notifications and delivers them together a few times a day; calls, alarms and OTPs still come through | [Android APK](https://github.com/ChandraChaan/notification-batch/releases/latest) |
@@ -61,7 +66,9 @@ Small apps that each do one job well. Open source, no ads, and your data stays o
 | [**flutter-production-starter**](https://github.com/ChandraChaan/flutter-production-starter) | Template app: clean architecture, Riverpod 3, go_router, environments, SSL pinning, tests and CI |
 | [**jobright**](https://github.com/ChandraChaan/jobright) | A local AI job-search agent that tailors resumes from real facts and applies only with your approval |
 
-### Contributions to Flutter, Dart and their ecosystem
+### Open-source contributions
+
+**Flutter, Dart and their ecosystem**
 
 | Project | Fix | Status |
 |---|---|---|
@@ -82,6 +89,24 @@ Small apps that each do one job well. Open source, no ads, and your data stays o
 | [bloc · replay_bloc](https://github.com/felangel/bloc/pull/4902) | Undo history ignored a lowered history limit | [![PR](https://img.shields.io/github/pulls/detail/state/felangel/bloc/4902?label=PR&style=flat-square)](https://github.com/felangel/bloc/pull/4902) |
 | [dio](https://github.com/cfug/dio/pull/2628) | `ListFormat.tsv` joined values with a literal `\t` instead of a tab | [![PR](https://img.shields.io/github/pulls/detail/state/cfug/dio/2628?label=PR&style=flat-square)](https://github.com/cfug/dio/pull/2628) |
 | [serverpod](https://github.com/serverpod/serverpod/pull/5920) | The CLI planned a bogus rename cycle when two columns swapped names | [![PR](https://img.shields.io/github/pulls/detail/state/serverpod/serverpod/5920?label=PR&style=flat-square)](https://github.com/serverpod/serverpod/pull/5920) |
+
+**Python, Rust, Go and TypeScript projects**
+
+| Project | Fix | Status |
+|---|---|---|
+| [PyAV](https://github.com/PyAV-Org/PyAV/pull/2505) | `AudioFifo` accepted frames with a different channel layout | [![PR](https://img.shields.io/github/pulls/detail/state/PyAV-Org/PyAV/2505?label=PR&style=flat-square)](https://github.com/PyAV-Org/PyAV/pull/2505) |
+| [PyAV](https://github.com/PyAV-Org/PyAV/pull/2502) | `AudioFrame.planes` could report more planes than the frame has | [![PR](https://img.shields.io/github/pulls/detail/state/PyAV-Org/PyAV/2502?label=PR&style=flat-square)](https://github.com/PyAV-Org/PyAV/pull/2502) |
+| [pdm](https://github.com/pdm-project/pdm/pull/3983) | `setup` dropped the version from an earlier project file when a later one had none | [![PR](https://img.shields.io/github/pulls/detail/state/pdm-project/pdm/3983?label=PR&style=flat-square)](https://github.com/pdm-project/pdm/pull/3983) |
+| [PySceneDetect](https://github.com/Breakthrough/PySceneDetect/pull/597) | The CSV cut-list row was unlabelled when no cut list was passed | [![PR](https://img.shields.io/github/pulls/detail/state/Breakthrough/PySceneDetect/597?label=PR&style=flat-square)](https://github.com/Breakthrough/PySceneDetect/pull/597) |
+| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo/pull/1753) | The config error now explains how to fix a Docker bind-mounted `config.toml` that became a folder | [![PR](https://img.shields.io/github/pulls/detail/state/harry0703/MoneyPrinterTurbo/1753?label=PR&style=flat-square)](https://github.com/harry0703/MoneyPrinterTurbo/pull/1753) |
+| [dominate](https://github.com/Knio/dominate/pull/237) | `attr()` and dict attributes skipped the tag's attribute cleaning | [![PR](https://img.shields.io/github/pulls/detail/state/Knio/dominate/237?label=PR&style=flat-square)](https://github.com/Knio/dominate/pull/237) |
+| [minijinja](https://github.com/mitsuhiko/minijinja/pull/1001) | `split(none, n)` returned trailing whitespace | [![PR](https://img.shields.io/github/pulls/detail/state/mitsuhiko/minijinja/1001?label=PR&style=flat-square)](https://github.com/mitsuhiko/minijinja/pull/1001) |
+| [minijinja](https://github.com/mitsuhiko/minijinja/pull/1003) | The Go port's `split(none, n)` maxsplit handling now matches Rust | [![PR](https://img.shields.io/github/pulls/detail/state/mitsuhiko/minijinja/1003?label=PR&style=flat-square)](https://github.com/mitsuhiko/minijinja/pull/1003) |
+| [miller](https://github.com/johnkerl/miller/pull/2282) | `fsec2hms` and `fsec2dhms` lost the carry from rounded fractional seconds | [![PR](https://img.shields.io/github/pulls/detail/state/johnkerl/miller/2282?label=PR&style=flat-square)](https://github.com/johnkerl/miller/pull/2282) |
+| [croc](https://github.com/schollz/croc/pull/1414) | File sizes showed `1024.0 kB` instead of `1.0 MB` | [![PR](https://img.shields.io/github/pulls/detail/state/schollz/croc/1414?label=PR&style=flat-square)](https://github.com/schollz/croc/pull/1414) |
+| [dust](https://github.com/bootandy/dust/pull/644) | `--only-dir` mishandled duplicate top-level names | [![PR](https://img.shields.io/github/pulls/detail/state/bootandy/dust/644?label=PR&style=flat-square)](https://github.com/bootandy/dust/pull/644) |
+| [YouTube.js](https://github.com/LuanRT/YouTube.js/pull/1318) | The parser had no `InlineSurvey`, `ExpandableSurveyResponse`, `RatingSurvey` or `RatingSurveyOption` nodes | [![PR](https://img.shields.io/github/pulls/detail/state/LuanRT/YouTube.js/1318?label=PR&style=flat-square)](https://github.com/LuanRT/YouTube.js/pull/1318) |
+| [xerj](https://github.com/xerj-org/xerj/pull/2865) | Autoindex skipped Dart extension and extension type declarations | [![PR](https://img.shields.io/github/pulls/detail/state/xerj-org/xerj/2865?label=PR&style=flat-square)](https://github.com/xerj-org/xerj/pull/2865) |
 
 ---
 
