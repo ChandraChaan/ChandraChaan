@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Chandra ObulaReddy, mobile engineer in Bangalore">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07090C"/>
+      <stop offset="0.6" stop-color="#11141A"/>
+      <stop offset="1" stop-color="#2A1A0B"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#EFA23F" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#EFA23F" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFD58A"/>
+      <stop offset="1" stop-color="#E08A1E"/>
+    </linearGradient>
+    <mask id="crescent">
+      <rect width="1200" height="320" fill="black"/>
+      <circle cx="960" cy="150" r="92" fill="white"/>
+      <circle cx="1000" cy="128" r="84" fill="black"/>
+    </mask>
+  </defs>
+  <rect width="1200" height="320" fill="url(#sky)"/>
+  <circle cx="960" cy="150" r="230" fill="url(#glow)"/>
+  <rect width="1200" height="320" fill="url(#gold)" mask="url(#crescent)"/>
+  <g fill="#F3E7D3">
+    <circle cx="760" cy="60" r="1.6" opacity="0.9"/>
+    <circle cx="830" cy="250" r="1.2" opacity="0.7"/>
+    <circle cx="1090" cy="70" r="1.8" opacity="0.9"/>
+    <circle cx="1140" cy="210" r="1.2" opacity="0.6"/>
+    <circle cx="1060" cy="270" r="1.4" opacity="0.7"/>
+    <circle cx="880" cy="40" r="1.2" opacity="0.6"/>
+    <circle cx="700" cy="180" r="1" opacity="0.5"/>
+    <circle cx="1170" cy="120" r="1" opacity="0.5"/>
+  </g>
+  <text x="72" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-style="italic" fill="#F3E7D3">Chandra ObulaReddy</text>
+  <rect x="74" y="176" width="64" height="3" rx="1.5" fill="#EFA23F"/>
+  <text x="72" y="222" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" letter-spacing="1" fill="#C9BFAE">Mobile engineer · Bangalore</text>
+  <text x="72" y="256" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" letter-spacing="0.5" fill="#8F8678">Flutter · Bluetooth LE · small apps made with care</text>
+</svg>
