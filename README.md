@@ -75,7 +75,6 @@ When something I use is broken, I'd rather fix it than work around it. Each badg
 | Project | What I fixed | Status |
 |---|---|---|
 | [flutter/flutter](https://github.com/flutter/flutter/pull/195756) | Screen readers kept announcing a text's old label or language after it changed | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/flutter/195756?label=PR&style=flat-square)](https://github.com/flutter/flutter/pull/195756) |
-| [flutter/flutter](https://github.com/flutter/flutter/pull/195758) | Animated box decorations lost their blend mode until the last frame | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/flutter/195758?label=PR&style=flat-square)](https://github.com/flutter/flutter/pull/195758) |
 | [flutter/packages · material_ui](https://github.com/flutter/packages/pull/13517) | Button theme equality ignored the button bar layout | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/packages/13517?label=PR&style=flat-square)](https://github.com/flutter/packages/pull/13517) |
 | [flutter/flutter](https://github.com/flutter/flutter/pull/195398) | `TableBorder` lost its rounded corners while animating | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/flutter/195398?label=PR&style=flat-square)](https://github.com/flutter/flutter/pull/195398) |
 | [flutter/flutter](https://github.com/flutter/flutter/pull/195404) | Text fields ignored a changed spell-check selection colour | [![PR](https://img.shields.io/github/pulls/detail/state/flutter/flutter/195404?label=PR&style=flat-square)](https://github.com/flutter/flutter/pull/195404) |
@@ -95,7 +94,7 @@ When something I use is broken, I'd rather fix it than work around it. Each badg
 </details>
 
 <details open>
-<summary><b>Python, Rust, Go and TypeScript projects</b></summary>
+<summary><b>Libraries and tools in Python, Go, Rust, TypeScript, Java and more</b></summary>
 
 <br />
 
@@ -114,6 +113,18 @@ When something I use is broken, I'd rather fix it than work around it. Each badg
 | [dust](https://github.com/bootandy/dust/pull/644) | `--only-dir` mishandled duplicate top-level names | [![PR](https://img.shields.io/github/pulls/detail/state/bootandy/dust/644?label=PR&style=flat-square)](https://github.com/bootandy/dust/pull/644) |
 | [YouTube.js](https://github.com/LuanRT/YouTube.js/pull/1318) | The parser had no `InlineSurvey`, `ExpandableSurveyResponse`, `RatingSurvey` or `RatingSurveyOption` nodes | [![PR](https://img.shields.io/github/pulls/detail/state/LuanRT/YouTube.js/1318?label=PR&style=flat-square)](https://github.com/LuanRT/YouTube.js/pull/1318) |
 | [xerj](https://github.com/xerj-org/xerj/pull/2865) | Autoindex skipped Dart extension and extension type declarations | [![PR](https://img.shields.io/github/pulls/detail/state/xerj-org/xerj/2865?label=PR&style=flat-square)](https://github.com/xerj-org/xerj/pull/2865) |
+| [tcell](https://github.com/gdamore/tcell/pull/1218) | `Color.Name()` returned a random name for colours that have several aliases | [![PR](https://img.shields.io/github/pulls/detail/state/gdamore/tcell/1218?label=PR&style=flat-square)](https://github.com/gdamore/tcell/pull/1218) |
+| [kando](https://github.com/kando-menu/kando/pull/1603) | The Open File action broke on Linux for paths with spaces or quotes | [![PR](https://img.shields.io/github/pulls/detail/state/kando-menu/kando/1603?label=PR&style=flat-square)](https://github.com/kando-menu/kando/pull/1603) |
+| [sesh](https://github.com/joshmedeski/sesh/pull/532) | `ShortenHome` also shortened sibling folders that share the home directory's prefix | [![PR](https://img.shields.io/github/pulls/detail/state/joshmedeski/sesh/532?label=PR&style=flat-square)](https://github.com/joshmedeski/sesh/pull/532) |
+| [Haraka](https://github.com/haraka/Haraka/pull/3641) | The tarpit plugin ignored delays that were set before a transaction began | [![PR](https://img.shields.io/github/pulls/detail/state/haraka/Haraka/3641?label=PR&style=flat-square)](https://github.com/haraka/Haraka/pull/3641) |
+| [minio-go](https://github.com/minio/minio-go/pull/2340) | `ParseObjectTags` dropped an invalid-escape error when a later tag was valid | [![PR](https://img.shields.io/github/pulls/detail/state/minio/minio-go/2340?label=PR&style=flat-square)](https://github.com/minio/minio-go/pull/2340) |
+| [overcommit](https://github.com/sds/overcommit/pull/910) | Git hooks crashed on a non-ASCII `.overcommit.yml` under an ASCII locale | [![PR](https://img.shields.io/github/pulls/detail/state/sds/overcommit/910?label=PR&style=flat-square)](https://github.com/sds/overcommit/pull/910) |
+| [datafaker](https://github.com/datafaker-net/datafaker/pull/1957) | One Alabama postcode had a leading space | [![PR](https://img.shields.io/github/pulls/detail/state/datafaker-net/datafaker/1957?label=PR&style=flat-square)](https://github.com/datafaker-net/datafaker/pull/1957) |
+| [datafaker](https://github.com/datafaker-net/datafaker/pull/1958) | 17 K-pop group names ended with a space | [![PR](https://img.shields.io/github/pulls/detail/state/datafaker-net/datafaker/1958?label=PR&style=flat-square)](https://github.com/datafaker-net/datafaker/pull/1958) |
+| [carbon](https://github.com/dromara/carbon/pull/391) | `IsSagittarius` was true on November 22, the last day of Scorpio | [![PR](https://img.shields.io/github/pulls/detail/state/dromara/carbon/391?label=PR&style=flat-square)](https://github.com/dromara/carbon/pull/391) |
+| [carbon](https://github.com/dromara/carbon/pull/392) | The Persian name for Sunday was misspelled | [![PR](https://img.shields.io/github/pulls/detail/state/dromara/carbon/392?label=PR&style=flat-square)](https://github.com/dromara/carbon/pull/392) |
+| [rails-i18n](https://github.com/svenfuchs/rails-i18n/pull/1187) | Luxembourgish and Dzongkha `date.order` made `date_select` raise | [![PR](https://img.shields.io/github/pulls/detail/state/svenfuchs/rails-i18n/1187?label=PR&style=flat-square)](https://github.com/svenfuchs/rails-i18n/pull/1187) |
+| [pagy](https://github.com/ddnexus/pagy/pull/937) | The Croatian page info text showed a raw `%{page_input}` placeholder | [![PR](https://img.shields.io/github/pulls/detail/state/ddnexus/pagy/937?label=PR&style=flat-square)](https://github.com/ddnexus/pagy/pull/937) |
 
 </details>
 
