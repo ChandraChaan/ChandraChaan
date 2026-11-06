@@ -126,6 +126,7 @@ When something I use is broken, I'd rather fix it than work around it. Each badg
 | [rails-i18n](https://github.com/svenfuchs/rails-i18n/pull/1187) | Luxembourgish and Dzongkha `date.order` made `date_select` raise | [![PR](https://img.shields.io/github/pulls/detail/state/svenfuchs/rails-i18n/1187?label=PR&style=flat-square)](https://github.com/svenfuchs/rails-i18n/pull/1187) |
 | [pagy](https://github.com/ddnexus/pagy/pull/937) | The Croatian page info text showed a raw `%{page_input}` placeholder | [![PR](https://img.shields.io/github/pulls/detail/state/ddnexus/pagy/937?label=PR&style=flat-square)](https://github.com/ddnexus/pagy/pull/937) |
 | [calibre](https://github.com/kovidgoyal/calibre/pull/3453) | `mobi2iana` took the region of a different language, so German could come out as `de-sa` | [![PR](https://img.shields.io/github/pulls/detail/state/kovidgoyal/calibre/3453?label=PR&style=flat-square)](https://github.com/kovidgoyal/calibre/pull/3453) |
+| [nginx-ui](https://github.com/0xJacky/nginx-ui/pull/2093) | Nine translations had broken `%{name}` placeholders, so the UI showed raw text | [![PR](https://img.shields.io/github/pulls/detail/state/0xJacky/nginx-ui/2093?label=PR&style=flat-square)](https://github.com/0xJacky/nginx-ui/pull/2093) |
 
 </details>
 
