@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Chandra ObulaReddy, mobile engineer in Bangalore">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Chandra ObulaReddy, Principal Software Engineer (Mobile) in Bangalore">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#07090C"/>
@@ -34,6 +34,6 @@
   </g>
   <text x="72" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-style="italic" fill="#F3E7D3">Chandra ObulaReddy</text>
   <rect x="74" y="176" width="64" height="3" rx="1.5" fill="#EFA23F"/>
-  <text x="72" y="222" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" letter-spacing="1" fill="#C9BFAE">Mobile engineer · Bangalore</text>
+  <text x="72" y="222" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" letter-spacing="1" fill="#C9BFAE">Principal Software Engineer (Mobile) · Bangalore</text>
   <text x="72" y="256" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" letter-spacing="0.5" fill="#8F8678">Flutter · Bluetooth LE · small apps made with care</text>
 </svg>
