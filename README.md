@@ -12,7 +12,7 @@
 
 I'm Chandra, a **Principal Software Engineer (Mobile) at [mPokket](https://www.mpokket.in/)** in Bangalore. I lead the Flutter work on **SkillZi**, a learning and rewards app used by 100K+ people.
 
-In 8+ years across **FinTech, HealthTech, EdTech and HRMS**, I've led teams of up to 8 engineers, taken an AWS digital health platform from concept to MVP as Technical Architect, and shipped apps that held 99.8%+ crash-free users.
+In 8+ years across **FinTech, HealthTech, EdTech and HRMS**, I've led teams of up to 15 engineers (Flutter teams of up to 8), taken an AWS digital health platform from concept to MVP as Technical Architect, and shipped apps that held 99.8%+ crash-free users.
 
 I go deepest on Flutter architecture, **Bluetooth LE and wearables**, payments and app security. *Chandra* means moon in Telugu, which is why there's one up there.
 
