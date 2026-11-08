@@ -58,6 +58,7 @@ Each one does a single job. They're open source and free of ads, and the ones th
 - **[mobile-system-design](https://github.com/ChandraChaan/mobile-system-design)** has worked case studies for UPI payments, wearable sync, offline chat, live tracking and more. &nbsp;<sub>[read online](https://chandrachaan.github.io/mobile-system-design/)</sub>
 - **[flutter-architect-handbook](https://github.com/ChandraChaan/flutter-architect-handbook)** has 67 Flutter interview and architecture questions, from junior to architect. &nbsp;<sub>[practise as flashcards](https://chandrachaan.github.io/flutter-interview-cards/)</sub>
 - **[flutter-agent-skills](https://github.com/ChandraChaan/flutter-agent-skills)** holds `AGENTS.md` rules and skills that help AI coding agents write production-quality Flutter.
+- **[flutter-release-kit](https://github.com/ChandraChaan/flutter-release-kit)** is a Claude Code plugin that checks a Flutter app before release: signing, permissions, store listing limits and the mistakes that get apps rejected.
 - **[flutter-production-starter](https://github.com/ChandraChaan/flutter-production-starter)** is a template app with clean architecture, Riverpod 3, go_router, environments, SSL pinning, tests and CI.
 - **[jobright](https://github.com/ChandraChaan/jobright)** is a local AI job-search agent that tailors your resume from real facts and applies only with your approval.
 
