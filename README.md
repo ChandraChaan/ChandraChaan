@@ -129,6 +129,7 @@ When something I use is broken, I'd rather fix it than work around it. Each badg
 | [calibre](https://github.com/kovidgoyal/calibre/pull/3453) | `mobi2iana` took the region of a different language, so German could come out as `de-sa` | [![PR](https://img.shields.io/github/pulls/detail/state/kovidgoyal/calibre/3453?label=PR&style=flat-square)](https://github.com/kovidgoyal/calibre/pull/3453) |
 | [nginx-ui](https://github.com/0xJacky/nginx-ui/pull/2093) | Nine translations had broken `%{name}` placeholders, so the UI showed raw text | [![PR](https://img.shields.io/github/pulls/detail/state/0xJacky/nginx-ui/2093?label=PR&style=flat-square)](https://github.com/0xJacky/nginx-ui/pull/2093) |
 | [Gopeed](https://github.com/GopeedLab/gopeed/pull/1651) | Filenames with an escaped ampersand were decoded differently from one run to the next | [![PR](https://img.shields.io/github/pulls/detail/state/GopeedLab/gopeed/1651?label=PR&style=flat-square)](https://github.com/GopeedLab/gopeed/pull/1651) |
+| [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler/pull/4681) | On web, two fingers on screen mixed their movement into one speed, so pan and fling got wrong velocities | [![PR](https://img.shields.io/github/pulls/detail/state/software-mansion/react-native-gesture-handler/4681?label=PR&style=flat-square)](https://github.com/software-mansion/react-native-gesture-handler/pull/4681) |
 
 </details>
 
