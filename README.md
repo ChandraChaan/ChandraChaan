@@ -45,6 +45,7 @@ I go deepest on Flutter architecture, **Bluetooth LE and wearables**, payments a
 - **[flutter-release-kit](https://github.com/ChandraChaan/flutter-release-kit)** is a Claude Code plugin that checks a Flutter app before release: signing, permissions, store listing limits and the mistakes that get apps rejected.
 - **[flutter-production-starter](https://github.com/ChandraChaan/flutter-production-starter)** is a template app with clean architecture, Riverpod 3, go_router, environments, SSL pinning, tests and CI.
 - **[jobright](https://github.com/ChandraChaan/jobright)** is a local AI job-search agent that tailors your resume from real facts and applies only with your approval.
+- **[fakepay](https://github.com/ChandraChaan/fakepay)** is a UPI app that moves no money, for testing your app's `upi://pay` flow with success, failure, pending, timeout and broken responses.
 
 <div align="center"><img src="assets/divider.svg" width="420" alt="" /></div>
 
@@ -129,6 +130,23 @@ Each one does a single job. They're open source and free of ads, and the ones th
 - **[Medicine Reminder](https://github.com/ChandraChaan/medicine-reminder)** is made for elderly parents: reminders spoken in Telugu, Hindi or English, and a family check for missed doses. &nbsp;<sub>[APK](https://github.com/ChandraChaan/medicine-reminder/releases/latest)</sub>
 - **[ScrollLess](https://github.com/ChandraChaan/scroll-less)** counts the Reels and Shorts you watch and how long you scroll. &nbsp;<sub>[APK](https://github.com/ChandraChaan/scroll-less/releases/latest)</sub>
 - **[UPI Split](https://github.com/ChandraChaan/upi-split)** splits a bill and sends each friend their own UPI payment link, equally, by shares or by amount. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/upi-split/)</sub>
+
+**Forms, bills and paperwork**
+
+- **[Sarkari Autofill](https://github.com/ChandraChaan/sarkari-autofill)** is a Chrome extension that fills your saved details into exam, job and government forms when you click. It never touches passwords, OTP, captcha, Aadhaar or PAN. &nbsp;<sub>Chrome extension</sub>
+- **[Form Photo Resizer](https://github.com/ChandraChaan/form-photo-resizer)** fits a photo, signature or thumb impression to a form's exact pixel size and KB limits, on your device. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/form-photo-resizer/)</sub>
+- **[Exam Form Tracker](https://github.com/ChandraChaan/exam-form-tracker)** is a notice board for every exam and job application, with the most urgent last date at the top and one tap to your calendar. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/exam-form-tracker/)</sub>
+- **[GST Invoice Maker](https://github.com/ChandraChaan/gst-invoice-maker)** makes a tax invoice for a small shop: CGST/SGST or IGST, GSTIN check, UPI QR and PDF. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/gst-invoice-maker/)</sub>
+- **[Rent Receipt Maker](https://github.com/ChandraChaan/rent-receipt-maker)** turns a year of rent into signable monthly receipts for your HRA claim, as one PDF. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/rent-receipt-maker/)</sub>
+- **[Loan APR Calculator](https://github.com/ChandraChaan/loan-apr-calculator)** shows the real yearly rate behind "12% flat" and processing fees, and compares offers side by side. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/loan-apr-calculator/)</sub>
+- **[ID Copy Guard](https://github.com/ChandraChaan/id-copy-guard)** blacks out what the other side doesn't need on an ID photo, stamps who the copy is for, and strips GPS data. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/id-copy-guard/)</sub>
+- **[Vehicle Papers](https://github.com/ChandraChaan/vehicle-papers-reminder)** keeps insurance, PUC and RC expiry dates for every vehicle at home, with renewal reminders in your calendar. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/vehicle-papers-reminder/)</sub>
+
+**Getting around and at home**
+
+- **[Fare Check](https://github.com/ChandraChaan/cab-fare-compare)** opens Uber, Ola, Rapido and Namma Yatri for your route, logs the fare each shows, and learns which is usually cheapest for that ride and hour. &nbsp;<sub>Android</sub>
+- **[TTD Booking Helper](https://github.com/ChandraChaan/ttd-booking-helper)** keeps your devotee group's details ready and types them into the official TTD site on quota release day. You do the login, OTP and payment. &nbsp;<sub>Android</sub>
+- **[Daily Delivery Tracker](https://github.com/ChandraChaan/daily-delivery-tracker)** is the milk card on the fridge: mark skipped or extra days for milk, water cans and the newspaper, and copy the month's bill. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/daily-delivery-tracker/)</sub>
 
 <details>
 <summary><b>11 more small apps</b></summary>
