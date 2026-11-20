@@ -124,7 +124,7 @@ When something I use is broken, I'd rather fix it than work around it. These fix
 
 ## The small apps
 
-Each one does a single job. They're open source and free of ads, and the ones that run on one phone keep your data on that phone.
+Each one does a single job. Almost all are open source, they're free of ads, and the ones that run on one phone keep your data on that phone.
 
 - **[Devalay](https://github.com/ChandraChaan/devalay)** is a devotional app: aarti and bhajans, the Bhagavad Gita, Panchang, a virtual Mandir, a japa mala and Rashifal, with Telugu support. &nbsp;<sub>[APK](https://github.com/ChandraChaan/devalay/releases/latest) · [website](https://chandrachaan.github.io/devalay/)</sub>
 - **[ChitPlay](https://github.com/ChandraChaan/chittilata)** brings paper-chit party games (Movie Chits, King & Queen, Dumb Charades) to real-time multiplayer, in English or Telugu. The server enforces the rules, so nobody can cheat. &nbsp;<sub>[Google Play](https://play.google.com/store/apps/details?id=com.chandra.chittilata) · [APK](https://github.com/ChandraChaan/chittilata/releases/latest)</sub>
@@ -150,12 +150,13 @@ Each one does a single job. They're open source and free of ads, and the ones th
 - **[Daily Delivery Tracker](https://github.com/ChandraChaan/daily-delivery-tracker)** is the milk card on the fridge: mark skipped or extra days for milk, water cans and the newspaper, and copy the month's bill. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/daily-delivery-tracker/)</sub>
 
 <details>
-<summary><b>12 more small apps</b></summary>
+<summary><b>13 more small apps</b></summary>
 
 - **[Puli Meka](https://github.com/ChandraChaan/Puli-Meka-Game)** is Tiger and Goats, the board game of Kadapa and Rayalaseema, in Telugu and English. &nbsp;<sub>[APK](https://github.com/ChandraChaan/Puli-Meka-Game/releases/latest)</sub>
 - **[Tambola Host](https://github.com/ChandraChaan/tambola-host)** runs a Housie night with a voice caller, printable tickets and a claim checker. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/tambola-host/)</sub>
 - **[Gully Cricket Scorer](https://github.com/ChandraChaan/gully-cricket-scorer)** scores street and weekend matches ball by ball, and works offline. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/gully-cricket-scorer/)</sub>
 - **[Notification Batch](https://github.com/ChandraChaan/notification-batch)** holds noisy notifications and delivers them a few times a day. Calls, alarms and OTPs still come straight through. &nbsp;<sub>[APK](https://github.com/ChandraChaan/notification-batch/releases/latest)</sub>
+- **[Vajra Automate](https://play.google.com/store/apps/details?id=com.chandra.vajraautomate)** runs automations on your own phone: shortcuts, triggers, a family circle, a contact card, and Ask Vajra commands you type or say. &nbsp;<sub>[Google Play](https://play.google.com/store/apps/details?id=com.chandra.vajraautomate)</sub>
 - **[Data Pack Meter](https://github.com/ChandraChaan/data-pack-meter)** shows live speed in the status bar and how much of today's data pack is left, app by app. &nbsp;<sub>[APK](https://github.com/ChandraChaan/data-pack-meter/releases/latest)</sub>
 - **[DueDay](https://github.com/ChandraChaan/bill-due-reminder)** reads bill and EMI due dates from your SMS, on the phone, and reminds you before they're due. &nbsp;<sub>[APK](https://github.com/ChandraChaan/bill-due-reminder/releases/latest)</sub>
 - **[Chat Media Cleaner](https://github.com/ChandraChaan/chat-media-cleaner)** finds large, duplicate and old chat media. You review everything, and deleted files sit in a 7-day trash. &nbsp;<sub>[Google Play](https://play.google.com/store/apps/details?id=dev.chandra.chat_media_cleaner) · [APK](https://github.com/ChandraChaan/chat-media-cleaner/releases/latest)</sub>
