@@ -40,7 +40,7 @@ I go deepest on Flutter architecture, **Bluetooth LE and wearables**, payments a
 **Guides and templates**
 
 - **[mobile-system-design](https://github.com/ChandraChaan/mobile-system-design)** has worked case studies for UPI payments, wearable sync, offline chat, live tracking and more. &nbsp;<sub>[read online](https://chandrachaan.github.io/mobile-system-design/)</sub>
-- **[flutter-architect-handbook](https://github.com/ChandraChaan/flutter-architect-handbook)** has 67 Flutter interview and architecture questions, from junior to architect. &nbsp;<sub>[practise as flashcards](https://chandrachaan.github.io/flutter-interview-cards/)</sub>
+- **[flutter-architect-handbook](https://github.com/ChandraChaan/flutter-architect-handbook)** has 67 Flutter interview and architecture questions, from junior to architect. &nbsp;<sub>[practise as flashcards](https://chandrachaan.github.io/flutter-interview-cards/) · Android app on Google Play soon</sub>
 - **[flutter-agent-skills](https://github.com/ChandraChaan/flutter-agent-skills)** holds `AGENTS.md` rules and skills that help AI coding agents write production-quality Flutter.
 - **[flutter-release-kit](https://github.com/ChandraChaan/flutter-release-kit)** is a Claude Code plugin that checks a Flutter app before release: signing, permissions, store listing limits and the mistakes that get apps rejected.
 - **[flutter-production-starter](https://github.com/ChandraChaan/flutter-production-starter)** is a template app with clean architecture, Riverpod 3, go_router, environments, SSL pinning, tests and CI.
@@ -126,10 +126,10 @@ When something I use is broken, I'd rather fix it than work around it. These fix
 
 Each one does a single job. Almost all are open source, they're free of ads, and the ones that run on one phone keep your data on that phone.
 
-- **[Devalay](https://github.com/ChandraChaan/devalay)** is a devotional app: aarti and bhajans, the Bhagavad Gita, Panchang, a virtual Mandir, a japa mala and Rashifal, with Telugu support. &nbsp;<sub>[APK](https://github.com/ChandraChaan/devalay/releases/latest) · [website](https://chandrachaan.github.io/devalay/)</sub>
+- **[Devalay](https://github.com/ChandraChaan/devalay)** is a devotional app: aarti and bhajans, the Bhagavad Gita, Panchang, a virtual Mandir, a japa mala and Rashifal, with Telugu support. &nbsp;<sub>Google Play soon · [APK](https://github.com/ChandraChaan/devalay/releases/latest) · [website](https://chandrachaan.github.io/devalay/)</sub>
 - **[ChitPlay](https://github.com/ChandraChaan/chittilata)** brings paper-chit party games (Movie Chits, King & Queen, Dumb Charades) to real-time multiplayer, in English or Telugu. The server enforces the rules, so nobody can cheat. &nbsp;<sub>[Google Play](https://play.google.com/store/apps/details?id=com.chandra.chittilata) · [APK](https://github.com/ChandraChaan/chittilata/releases/latest)</sub>
-- **[Voice Saathi](https://github.com/ChandraChaan/medicine-reminder)** is a phone helper for elderly parents, built like a push-button home phone: press one big button and speak in Telugu, Hindi or English to call family, hear the time or today's reminders, or call for help. Daily reminders ring like an alarm and are read out loud. &nbsp;<sub>[APK](https://github.com/ChandraChaan/medicine-reminder/releases/latest)</sub>
-- **[ScrollLess](https://github.com/ChandraChaan/scroll-less)** counts the Reels and Shorts you watch and how long you scroll. &nbsp;<sub>[APK](https://github.com/ChandraChaan/scroll-less/releases/latest)</sub>
+- **[Voice Saathi](https://github.com/ChandraChaan/medicine-reminder)** is a phone helper for elderly parents, built like a push-button home phone: press one big button and speak in Telugu, Hindi or English to call family, hear the time or today's reminders, or call for help. Daily reminders ring like an alarm and are read out loud. &nbsp;<sub>Google Play soon · [APK](https://github.com/ChandraChaan/medicine-reminder/releases/latest)</sub>
+- **[ScrollLess](https://github.com/ChandraChaan/scroll-less)** counts the Reels and Shorts you watch and how long you scroll. &nbsp;<sub>Google Play soon · [APK](https://github.com/ChandraChaan/scroll-less/releases/latest)</sub>
 - **[UPI Split](https://github.com/ChandraChaan/upi-split)** splits a bill and sends each friend their own UPI payment link, equally, by shares or by amount. &nbsp;<sub>[Google Play](https://play.google.com/store/apps/details?id=dev.chandra.upi_split) · [open in browser](https://chandrachaan.github.io/upi-split/)</sub>
 
 **Forms, bills and paperwork**
@@ -149,13 +149,19 @@ Each one does a single job. Almost all are open source, they're free of ads, and
 - **[TTD Booking Helper](https://github.com/ChandraChaan/ttd-booking-helper)** keeps your devotee group's details ready and types them into the official TTD site on quota release day. You do the login, OTP and payment. &nbsp;<sub>Android</sub>
 - **[Daily Delivery Tracker](https://github.com/ChandraChaan/daily-delivery-tracker)** is the milk card on the fridge: mark skipped or extra days for milk, water cans and the newspaper, and copy the month's bill. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/daily-delivery-tracker/)</sub>
 
+**Coming soon to Google Play**
+
+- **PosePerfect** is an AI camera that reads your location and the light, suggests poses for the spot, and has 15 film looks and a photo coach. &nbsp;<sub>Google Play soon</sub>
+- **MoneyLens** turns bank, UPI and card alerts into a clear view of spending, budgets, bills and savings, and keeps your financial data on your phone. &nbsp;<sub>Google Play soon</sub>
+- **Reply Assistant** drafts WhatsApp replies in your own style and sends them only the way you choose. &nbsp;<sub>Google Play soon</sub>
+
 <details>
 <summary><b>13 more small apps</b></summary>
 
-- **[Puli Meka](https://github.com/ChandraChaan/Puli-Meka-Game)** is Tiger and Goats, the board game of Kadapa and Rayalaseema, in Telugu and English. &nbsp;<sub>[APK](https://github.com/ChandraChaan/Puli-Meka-Game/releases/latest)</sub>
-- **[Tambola Host](https://github.com/ChandraChaan/tambola-host)** runs a Housie night with a voice caller, printable tickets and a claim checker. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/tambola-host/)</sub>
-- **[Gully Cricket Scorer](https://github.com/ChandraChaan/gully-cricket-scorer)** scores street and weekend matches ball by ball, and works offline. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/gully-cricket-scorer/)</sub>
-- **[Notification Batch](https://github.com/ChandraChaan/notification-batch)** holds noisy notifications and delivers them a few times a day. Calls, alarms and OTPs still come straight through. &nbsp;<sub>[APK](https://github.com/ChandraChaan/notification-batch/releases/latest)</sub>
+- **[Puli Meka](https://github.com/ChandraChaan/Puli-Meka-Game)** is Tiger and Goats, the board game of Kadapa and Rayalaseema, in Telugu and English. &nbsp;<sub>Google Play soon · [APK](https://github.com/ChandraChaan/Puli-Meka-Game/releases/latest)</sub>
+- **[Tambola Host](https://github.com/ChandraChaan/tambola-host)** runs a Housie night with a voice caller, printable tickets and a claim checker. &nbsp;<sub>Google Play soon · [open in browser](https://chandrachaan.github.io/tambola-host/)</sub>
+- **[Gully Cricket Scorer](https://github.com/ChandraChaan/gully-cricket-scorer)** scores street and weekend matches ball by ball, and works offline. &nbsp;<sub>Google Play soon · [open in browser](https://chandrachaan.github.io/gully-cricket-scorer/)</sub>
+- **[Notification Batch](https://github.com/ChandraChaan/notification-batch)** holds noisy notifications and delivers them a few times a day. Calls, alarms and OTPs still come straight through. &nbsp;<sub>Google Play soon · [APK](https://github.com/ChandraChaan/notification-batch/releases/latest)</sub>
 - **[Vajra Automate](https://play.google.com/store/apps/details?id=com.chandra.vajraautomate)** runs automations on your own phone: shortcuts, triggers, a family circle, a contact card, and Ask Vajra commands you type or say. &nbsp;<sub>[Google Play](https://play.google.com/store/apps/details?id=com.chandra.vajraautomate)</sub>
 - **[Data Pack Meter](https://github.com/ChandraChaan/data-pack-meter)** shows live speed in the status bar and how much of today's data pack is left, app by app. &nbsp;<sub>[APK](https://github.com/ChandraChaan/data-pack-meter/releases/latest)</sub>
 - **[DueDay](https://github.com/ChandraChaan/bill-due-reminder)** reads bill and EMI due dates from your SMS, on the phone, and reminds you before they're due. &nbsp;<sub>[APK](https://github.com/ChandraChaan/bill-due-reminder/releases/latest)</sub>
