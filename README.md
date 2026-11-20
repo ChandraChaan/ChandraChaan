@@ -85,6 +85,7 @@ When something I use is broken, I'd rather fix it than work around it. These fix
 | [carp-health-flutter · health](https://github.com/carp-dk/carp-health-flutter/pull/535) | Android workout summaries were always empty | [![PR](https://img.shields.io/github/pulls/detail/state/carp-dk/carp-health-flutter/535?label=PR&style=flat-square)](https://github.com/carp-dk/carp-health-flutter/pull/535) |
 | [bloc · replay_bloc](https://github.com/felangel/bloc/pull/4902) | Undo history ignored a lowered history limit | [![PR](https://img.shields.io/github/pulls/detail/state/felangel/bloc/4902?label=PR&style=flat-square)](https://github.com/felangel/bloc/pull/4902) |
 | [dio](https://github.com/cfug/dio/pull/2628) | `ListFormat.tsv` joined values with a literal `\t` instead of a tab | [![PR](https://img.shields.io/github/pulls/detail/state/cfug/dio/2628?label=PR&style=flat-square)](https://github.com/cfug/dio/pull/2628) |
+| [aws-amplify · amplify-flutter](https://github.com/aws-amplify/amplify-flutter/pull/7552) | Errors from the HTTP/1.1 fallback request were lost | [![PR](https://img.shields.io/github/pulls/detail/state/aws-amplify/amplify-flutter/7552?label=PR&style=flat-square)](https://github.com/aws-amplify/amplify-flutter/pull/7552) |
 | [serverpod](https://github.com/serverpod/serverpod/pull/5920) | The CLI planned a bogus rename cycle when two columns swapped names | [![PR](https://img.shields.io/github/pulls/detail/state/serverpod/serverpod/5920?label=PR&style=flat-square)](https://github.com/serverpod/serverpod/pull/5920) |
 
 </details>
@@ -126,10 +127,10 @@ When something I use is broken, I'd rather fix it than work around it. These fix
 Each one does a single job. They're open source and free of ads, and the ones that run on one phone keep your data on that phone.
 
 - **[Devalay](https://github.com/ChandraChaan/devalay)** is a devotional app: aarti and bhajans, the Bhagavad Gita, Panchang, a virtual Mandir, a japa mala and Rashifal, with Telugu support. &nbsp;<sub>[APK](https://github.com/ChandraChaan/devalay/releases/latest) · [website](https://chandrachaan.github.io/devalay/)</sub>
-- **[Chittilata](https://github.com/ChandraChaan/chittilata)** brings the Telugu paper-chit games Chittilu Aata and Raja Rani to real-time multiplayer. The server enforces the rules, so nobody can cheat. &nbsp;<sub>[APK](https://github.com/ChandraChaan/chittilata/releases/latest)</sub>
+- **[ChitPlay](https://github.com/ChandraChaan/chittilata)** brings paper-chit party games (Movie Chits, King & Queen, Dumb Charades) to real-time multiplayer, in English or Telugu. The server enforces the rules, so nobody can cheat. &nbsp;<sub>[Google Play](https://play.google.com/store/apps/details?id=com.chandra.chittilata) · [APK](https://github.com/ChandraChaan/chittilata/releases/latest)</sub>
 - **[Medicine Reminder](https://github.com/ChandraChaan/medicine-reminder)** is made for elderly parents: reminders spoken in Telugu, Hindi or English, and a family check for missed doses. &nbsp;<sub>[APK](https://github.com/ChandraChaan/medicine-reminder/releases/latest)</sub>
 - **[ScrollLess](https://github.com/ChandraChaan/scroll-less)** counts the Reels and Shorts you watch and how long you scroll. &nbsp;<sub>[APK](https://github.com/ChandraChaan/scroll-less/releases/latest)</sub>
-- **[UPI Split](https://github.com/ChandraChaan/upi-split)** splits a bill and sends each friend their own UPI payment link, equally, by shares or by amount. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/upi-split/)</sub>
+- **[UPI Split](https://github.com/ChandraChaan/upi-split)** splits a bill and sends each friend their own UPI payment link, equally, by shares or by amount. &nbsp;<sub>[Google Play](https://play.google.com/store/apps/details?id=dev.chandra.upi_split) · [open in browser](https://chandrachaan.github.io/upi-split/)</sub>
 
 **Forms, bills and paperwork**
 
@@ -149,7 +150,7 @@ Each one does a single job. They're open source and free of ads, and the ones th
 - **[Daily Delivery Tracker](https://github.com/ChandraChaan/daily-delivery-tracker)** is the milk card on the fridge: mark skipped or extra days for milk, water cans and the newspaper, and copy the month's bill. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/daily-delivery-tracker/)</sub>
 
 <details>
-<summary><b>11 more small apps</b></summary>
+<summary><b>12 more small apps</b></summary>
 
 - **[Puli Meka](https://github.com/ChandraChaan/Puli-Meka-Game)** is Tiger and Goats, the board game of Kadapa and Rayalaseema, in Telugu and English. &nbsp;<sub>[APK](https://github.com/ChandraChaan/Puli-Meka-Game/releases/latest)</sub>
 - **[Tambola Host](https://github.com/ChandraChaan/tambola-host)** runs a Housie night with a voice caller, printable tickets and a claim checker. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/tambola-host/)</sub>
@@ -157,7 +158,8 @@ Each one does a single job. They're open source and free of ads, and the ones th
 - **[Notification Batch](https://github.com/ChandraChaan/notification-batch)** holds noisy notifications and delivers them a few times a day. Calls, alarms and OTPs still come straight through. &nbsp;<sub>[APK](https://github.com/ChandraChaan/notification-batch/releases/latest)</sub>
 - **[Data Pack Meter](https://github.com/ChandraChaan/data-pack-meter)** shows live speed in the status bar and how much of today's data pack is left, app by app. &nbsp;<sub>[APK](https://github.com/ChandraChaan/data-pack-meter/releases/latest)</sub>
 - **[DueDay](https://github.com/ChandraChaan/bill-due-reminder)** reads bill and EMI due dates from your SMS, on the phone, and reminds you before they're due. &nbsp;<sub>[APK](https://github.com/ChandraChaan/bill-due-reminder/releases/latest)</sub>
-- **[Chat Media Cleaner](https://github.com/ChandraChaan/chat-media-cleaner)** finds large, duplicate and old chat media. You review everything, and deleted files sit in a 7-day trash. &nbsp;<sub>[APK](https://github.com/ChandraChaan/chat-media-cleaner/releases/latest)</sub>
+- **[Chat Media Cleaner](https://github.com/ChandraChaan/chat-media-cleaner)** finds large, duplicate and old chat media. You review everything, and deleted files sit in a 7-day trash. &nbsp;<sub>[Google Play](https://play.google.com/store/apps/details?id=dev.chandra.chat_media_cleaner) · [APK](https://github.com/ChandraChaan/chat-media-cleaner/releases/latest)</sub>
+- **[Age Calculator](https://github.com/ChandraChaan/age-calculator-flutter)** works out exact ages and counts down to events, with reminders. Private and offline. &nbsp;<sub>[Google Play](https://play.google.com/store/apps/details?id=com.chandra.agecalculator)</sub>
 - **[Best Clock](https://github.com/ChandraChaan/timerApp)** has a world clock, alarms that still ring after a reboot, a lap stopwatch and a timer, with dark, light and OLED themes. &nbsp;<sub>[APK](https://github.com/ChandraChaan/timerApp/releases/latest)</sub>
 - **[Heart Rate Web](https://github.com/ChandraChaan/heart-rate-web)** connects any Bluetooth heart-rate strap to the browser for live bpm, zones, HRV and export. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/heart-rate-web/)</sub>
 - **[Grabbit](https://github.com/ChandraChaan/grabbit)** is an Android browser that finds videos, audio and images on a page and downloads them, HLS streams included. &nbsp;<sub>[APK](https://github.com/ChandraChaan/grabbit/releases/latest)</sub>
