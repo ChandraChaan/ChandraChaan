@@ -128,7 +128,7 @@ Each one does a single job. Almost all are open source, they're free of ads, and
 
 - **[Devalay](https://github.com/ChandraChaan/devalay)** is a devotional app: aarti and bhajans, the Bhagavad Gita, Panchang, a virtual Mandir, a japa mala and Rashifal, with Telugu support. &nbsp;<sub>[APK](https://github.com/ChandraChaan/devalay/releases/latest) · [website](https://chandrachaan.github.io/devalay/)</sub>
 - **[ChitPlay](https://github.com/ChandraChaan/chittilata)** brings paper-chit party games (Movie Chits, King & Queen, Dumb Charades) to real-time multiplayer, in English or Telugu. The server enforces the rules, so nobody can cheat. &nbsp;<sub>[Google Play](https://play.google.com/store/apps/details?id=com.chandra.chittilata) · [APK](https://github.com/ChandraChaan/chittilata/releases/latest)</sub>
-- **[Medicine Reminder](https://github.com/ChandraChaan/medicine-reminder)** is made for elderly parents: reminders spoken in Telugu, Hindi or English, and a family check for missed doses. &nbsp;<sub>[APK](https://github.com/ChandraChaan/medicine-reminder/releases/latest)</sub>
+- **[Voice Saathi](https://github.com/ChandraChaan/medicine-reminder)** is a phone helper for elderly parents, built like a push-button home phone: press one big button and speak in Telugu, Hindi or English to call family, hear the time or today's reminders, or call for help. Daily reminders ring like an alarm and are read out loud. &nbsp;<sub>[APK](https://github.com/ChandraChaan/medicine-reminder/releases/latest)</sub>
 - **[ScrollLess](https://github.com/ChandraChaan/scroll-less)** counts the Reels and Shorts you watch and how long you scroll. &nbsp;<sub>[APK](https://github.com/ChandraChaan/scroll-less/releases/latest)</sub>
 - **[UPI Split](https://github.com/ChandraChaan/upi-split)** splits a bill and sends each friend their own UPI payment link, equally, by shares or by amount. &nbsp;<sub>[Google Play](https://play.google.com/store/apps/details?id=dev.chandra.upi_split) · [open in browser](https://chandrachaan.github.io/upi-split/)</sub>
 
@@ -165,6 +165,18 @@ Each one does a single job. Almost all are open source, they're free of ads, and
 - **[Heart Rate Web](https://github.com/ChandraChaan/heart-rate-web)** connects any Bluetooth heart-rate strap to the browser for live bpm, zones, HRV and export. &nbsp;<sub>[open in browser](https://chandrachaan.github.io/heart-rate-web/)</sub>
 - **[Grabbit](https://github.com/ChandraChaan/grabbit)** is an Android browser that finds videos, audio and images on a page and downloads them, HLS streams included. &nbsp;<sub>[APK](https://github.com/ChandraChaan/grabbit/releases/latest)</sub>
 - **[Tatkal Helper](https://github.com/ChandraChaan/tatkal-helper)** is a Chrome extension for IRCTC Tatkal booking with saved passengers, one-click form fill and a countdown. You still do every click yourself. &nbsp;<sub>[download](https://github.com/ChandraChaan/tatkal-helper/releases/latest) · [website](https://chandrachaan.github.io/tatkal-helper/)</sub>
+
+</details>
+
+<details>
+<summary><b>Earlier projects and prototypes</b></summary>
+
+- **[OMorals](https://github.com/ChandraChaan/omorals)** is the public website (WebGL) and team workspace (Flutter + Firebase) for OMorals Media: tasks, the YouTube video pipeline and call tracking. &nbsp;<sub>[website](https://omorals.web.app) · [marketing site](https://github.com/ChandraChaan/marketing-website)</sub>
+- **[AI Store Robot](https://github.com/ChandraChaan/ai-store-robot)** is a prototype that runs a small village store with AI, computer vision and voice. &nbsp;<sub>Python</sub>
+- **[Invitation App](https://github.com/ChandraChaan/InvitationApp)** makes digital wedding invitations with RSVPs and event details. &nbsp;<sub>Flutter</sub>
+- **[Send Money App](https://github.com/ChandraChaan/send-money-app)** sends money between wallets with live balance updates and transaction history. &nbsp;<sub>Flutter</sub>
+- **[Retail Pricing Dashboard](https://github.com/ChandraChaan/retail_pricing_dashboard)** uploads a pricing CSV, then searches, sorts and edits it, with clean architecture. &nbsp;<sub>Flutter web</sub>
+- **[DartNote](https://github.com/ChandraChaan/dart_note)** is a command-line note taker in pure Dart. &nbsp;<sub>CLI</sub>
 
 </details>
 
